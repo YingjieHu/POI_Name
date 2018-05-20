@@ -47,7 +47,7 @@ This section provides descriptions for the source Python files. If you have ques
 
 "similarity_matrix.py": Code in this file generates the similarity matrices based on the geographic distances of the seven metropolitan areas and their POI name similarities based on word2vec. These generated figures are used in Figure 7 (a) and (c) in the published paper. These similarity matrices are also shown as below:
 <p align="center">
-<img align="center" src="https://github.com/YingjieHu/POI_Name/blob/master/fig/Similarity_metro.png" width="600" />
+<img align="center" src="https://github.com/YingjieHu/POI_Name/blob/master/fig/Similarity_metro.png" width="800" />
 </p>
 
  
