@@ -1,0 +1,101 @@
+﻿north|olmsted,oh marco pizza
+north|olmsted,oh dairy queen
+north|olmsted,oh backdraft bar grille
+north|olmsted,oh burger king
+north|olmsted,oh red robin gourmet burgers
+north|olmsted,oh blue turtle tavern
+north|olmsted,oh wild mango restaurant bar
+north|olmsted,oh famous dave
+north|olmsted,oh foo sing
+north|olmsted,oh chipotle mexican grill
+north|olmsted,oh kfc
+north|olmsted,oh five guys
+north|olmsted,oh arby
+north|olmsted,oh wine brew and more
+north|olmsted,oh mcdonald
+north|olmsted,oh pizza hut
+north|olmsted,oh jumbo ii chinese food
+north|olmsted,oh charleys philly steaks
+north|olmsted,oh frankie italian cuisine
+north|olmsted,oh bob evans
+north|olmsted,oh auntie anne
+north|olmsted,oh bj restaurant brewhouse
+north|olmsted,oh ohio beer garden
+north|olmsted,oh nuevo acapulco
+north|olmsted,oh great wall china buffet
+north|olmsted,oh panera bread
+north|olmsted,oh jimmy john
+north|olmsted,oh old vienna restaurant
+north|olmsted,oh chili
+north|olmsted,oh papa john pizza
+north|olmsted,oh corso italian restaurant
+north|olmsted,oh vienna deli
+north|olmsted,oh sittoo pita salad
+north|olmsted,oh pizza hut
+north|olmsted,oh sammi deli
+north|olmsted,oh famous gyro george
+north|olmsted,oh arturo bar grille
+north|olmsted,oh cafe stratos
+north|olmsted,oh maria pizzeria
+north|olmsted,oh applebee
+north|olmsted,oh tadka restaurant
+north|olmsted,oh flavors of india
+north|olmsted,oh steak on stone
+north|olmsted,oh daishin steak house
+north|olmsted,oh bruegger bagels
+north|olmsted,oh harry buffalo
+north|olmsted,oh mi pollo mexican grill
+north|olmsted,oh tj hibachi sushi bar
+north|olmsted,oh geppetto pizza ribs
+north|olmsted,oh whiskey dogg
+north|olmsted,oh pizzabogo
+north|olmsted,oh moe southwest grill
+north|olmsted,oh chick fil
+north|olmsted,oh phnom penh
+north|olmsted,oh denny
+north|olmsted,oh popeyes louisiana kitchen
+north|olmsted,oh boston market
+north|olmsted,oh ruby tuesday
+north|olmsted,oh bakers square
+north|olmsted,oh smokey bones bar fire grill
+north|olmsted,oh china delight
+north|olmsted,oh stir fry 88
+north|olmsted,oh olive garden italian restaurant
+north|olmsted,oh mcalister deli
+north|olmsted,oh china renaissance
+north|olmsted,oh lone star steakhouse
+north|olmsted,oh mama fu asian house
+north|olmsted,oh brown bag burger
+north|olmsted,oh penn station east coast subs
+north|olmsted,oh fox pizza den
+north|olmsted,oh chuck cheese
+north|olmsted,oh upper crust pizza
+north|olmsted,oh foo sing chinese restaurant
+north|olmsted,oh canarys
+north|olmsted,oh the rail
+north|olmsted,oh danny boys pizza
+north|olmsted,oh mashiso asian grille
+north|olmsted,oh two bucks north olmsted
+north|olmsted,oh romeo pizza
+north|olmsted,oh red lobster
+north|olmsted,oh no buffet
+north|olmsted,oh ohashi
+north|olmsted,oh chop it salad co
+north|olmsted,oh manhattan west catering restaurant
+north|olmsted,oh asia court
+north|olmsted,oh sarku japan
+north|olmsted,oh ruby thai kitchen
+north|olmsted,oh ari family restaurant
+north|olmsted,oh harry buffalo
+north|olmsted,oh el rodeo
+north|olmsted,oh domino pizza
+north|olmsted,oh inchin bamboo garden
+north|olmsted,oh georgio oven fresh pizza
+north|olmsted,oh fragapane bakeries
+north|olmsted,oh travelers grille
+north|olmsted,oh fat heads brewery and saloon
+north|olmsted,oh scrambler marie
+north|olmsted,oh subway
+north|olmsted,oh layalena cuisine
+north|olmsted,oh ohio kabob grill
+north|olmsted,oh ya hala bakery grill

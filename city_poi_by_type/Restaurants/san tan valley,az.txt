@@ -1,0 +1,15 @@
+﻿san|tan|valley,az aloha grill
+san|tan|valley,az red leg burgers bratwurst
+san|tan|valley,az papa john pizza
+san|tan|valley,az yola cajun fried chicken
+san|tan|valley,az wok roll
+san|tan|valley,az taco bell
+san|tan|valley,az lavelles deli
+san|tan|valley,az skyline pizza
+san|tan|valley,az mcdonald
+san|tan|valley,az geno giant slice
+san|tan|valley,az jungle buffet
+san|tan|valley,az papa kenos
+san|tan|valley,az native grill wings
+san|tan|valley,az lavelles deli ice cream shoppe
+san|tan|valley,az asian buffet

@@ -1,0 +1,16 @@
+﻿mint|hill,nc mecklenburg county abc
+mint|hill,nc walgreens
+mint|hill,nc papa john pizza
+mint|hill,nc aldi
+mint|hill,nc dunkin donuts
+mint|hill,nc carolina creamery
+mint|hill,nc harris teeter
+mint|hill,nc mint hill farmers market
+mint|hill,nc food lion
+mint|hill,nc daphne bakery
+mint|hill,nc sticks and cones ice cream trucks
+mint|hill,nc irene cafe
+mint|hill,nc earp
+mint|hill,nc publix
+mint|hill,nc barking duck brewing
+mint|hill,nc marco pizza

@@ -1,0 +1,30 @@
+﻿tolleson,az jack in the box
+tolleson,az taqueria cenaduria culiacan
+tolleson,az salad and go
+tolleson,az tortas ahogadas george
+tolleson,az pizza hut
+tolleson,az manhattan pizza
+tolleson,az waffle house
+tolleson,az adam pizza and wings
+tolleson,az sonic drive in
+tolleson,az honeybaked ham and cafe
+tolleson,az taco bell
+tolleson,az petes fish chips
+tolleson,az fried rice
+tolleson,az irma mexican food
+tolleson,az tamales guadalajara
+tolleson,az popeyes louisiana kitchen
+tolleson,az chicken koup
+tolleson,az mcdonald
+tolleson,az blossom asian cuisine
+tolleson,az happy garden
+tolleson,az new asian star
+tolleson,az subway
+tolleson,az hula hawaiian bbq
+tolleson,az jack in the box
+tolleson,az ichi ban japanese restaurant
+tolleson,az firehouse subs
+tolleson,az filiberto mexican food
+tolleson,az fuego bar and grill
+tolleson,az viva mexican grill
+tolleson,az la flor de michoacan

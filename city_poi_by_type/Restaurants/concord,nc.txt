@@ -1,0 +1,247 @@
+﻿concord,nc tgi fridays
+concord,nc chuck cheese
+concord,nc burger king
+concord,nc lodge wood fired grill
+concord,nc chola
+concord,nc subway
+concord,nc mai thai ii
+concord,nc texas roadhouse
+concord,nc chibogz
+concord,nc ryan
+concord,nc chick fil
+concord,nc applebee
+concord,nc marco pizza
+concord,nc five guys
+concord,nc mcdonald
+concord,nc domino pizza
+concord,nc yama sushi grill
+concord,nc ruby tuesday
+concord,nc chipotle mexican grill
+concord,nc cracker barrel old country store
+concord,nc china garden
+concord,nc zaxby chicken fingers buffalo wings
+concord,nc taco frontera
+concord,nc conversation peace restaurant bar grill
+concord,nc denny
+concord,nc the gateway to athens
+concord,nc domino pizza
+concord,nc pdq concord
+concord,nc charanda mexican grill cantina
+concord,nc jack in the box
+concord,nc carrabba italian grill
+concord,nc kfc
+concord,nc chick fil
+concord,nc cracker barrel old country store
+concord,nc rocky river golf club
+concord,nc zaxby chicken fingers buffalo wings
+concord,nc what burger no 15
+concord,nc hooters
+concord,nc tavern at the mills
+concord,nc tony sacco coal oven pizza
+concord,nc maki of japan
+concord,nc andele mexican restaurant
+concord,nc red lobster
+concord,nc romano pizza italian restaurant
+concord,nc cook out
+concord,nc aroma indian cuisine
+concord,nc cinco de mayo
+concord,nc pier 51 seafood restaurant
+concord,nc jersey mike subs
+concord,nc charley restaurant bar
+concord,nc spartans mediterranean taverna grill
+concord,nc the asian cafe
+concord,nc popeyes louisiana kitchen
+concord,nc copper ale house
+concord,nc salsarita fresh mexican grill
+concord,nc red dragon
+concord,nc lake todd fish camp
+concord,nc little dooey barbeque blues
+concord,nc longhorn steakhouse
+concord,nc kyjo
+concord,nc chat burrito
+concord,nc dilworth coffee
+concord,nc chili
+concord,nc wendy
+concord,nc which wich superior sandwiches
+concord,nc parkway house family restaurant
+concord,nc bonfire bar grill
+concord,nc atlas kabob house
+concord,nc lubrano pizza
+concord,nc bar que
+concord,nc chili
+concord,nc firehouse subs
+concord,nc mr
+concord,nc waffle house
+concord,nc bojangles
+concord,nc wendy
+concord,nc havana carolina cafe bakery
+concord,nc noodles
+concord,nc punchy diner
+concord,nc shane rib shack
+concord,nc gals kitchen
+concord,nc mcdonald
+concord,nc southern china
+concord,nc pilón dominican kitchen
+concord,nc triple restaurant and grill
+concord,nc mayflower seafood restaurant
+concord,nc havana carolina cafe
+concord,nc popeye
+concord,nc mayflower seafood restaurant
+concord,nc olive garden italian restaurant
+concord,nc martino italian restaurant
+concord,nc bojangles famous chicken biscuits
+concord,nc wayside family restaurant
+concord,nc gals kitchen
+concord,nc sun sing express chinese food
+concord,nc sogo express
+concord,nc queen city
+concord,nc max alley
+concord,nc cafeteria
+concord,nc howard
+concord,nc union street bistro
+concord,nc green leaf beyond great salads
+concord,nc kfc
+concord,nc sonny bbq
+concord,nc razzoo cajun cafe
+concord,nc la piazza deli
+concord,nc fatz cafe
+concord,nc chipotle mexican grill
+concord,nc outback steakhouse
+concord,nc freddy frozen custard steakburgers
+concord,nc fiesta mexicana grill
+concord,nc hotshots sports bar grill concord
+concord,nc garofola italiano
+concord,nc waffle house
+concord,nc pizza hut
+concord,nc fresh off the grill
+concord,nc carm cafe
+concord,nc texas land cattle
+concord,nc bangkok garden
+concord,nc waffle house
+concord,nc popeye chicken
+concord,nc arlotta italian american grill
+concord,nc royal dragon chinese food
+concord,nc los cuates mexican restaurant
+concord,nc basilico italiano
+concord,nc brooklyn pizzeria
+concord,nc pholicious
+concord,nc sushi queen sushi and grill
+concord,nc steak shake
+concord,nc amici pizza sports bar and grill
+concord,nc the sweet spot
+concord,nc asian garden
+concord,nc zaxby chicken fingers buffalo wings
+concord,nc mcdonald
+concord,nc brickhouse grill
+concord,nc troutman bar
+concord,nc mykonos grill taste of greece
+concord,nc dino family restaurant
+concord,nc osaka buffet
+concord,nc joe sports bar
+concord,nc nypd pizza
+concord,nc china ii
+concord,nc china garden
+concord,nc c3 coffee crepes creamery
+concord,nc bio bos
+concord,nc rocky river grille
+concord,nc applebee
+concord,nc camila
+concord,nc mcdonalds
+concord,nc mcdonald
+concord,nc dairy queen
+concord,nc charley grilled subs
+concord,nc paparoni pizza ice cream
+concord,nc gianni trattoria
+concord,nc the grill at 11 union
+concord,nc quaker steak lube
+concord,nc brooklyn pizzeria
+concord,nc the full moon oyster bar
+concord,nc bojangles famous chicken biscuits
+concord,nc fish fixin
+concord,nc tijuana flats
+concord,nc ichiban buffet sushi hibachi
+concord,nc south philly steak fries
+concord,nc chick fil
+concord,nc the smoke pit
+concord,nc la roma pizza
+concord,nc mi pueblo mexican grill
+concord,nc sonic
+concord,nc ec food
+concord,nc charlie graingers
+concord,nc taco bell
+concord,nc oliver chicken
+concord,nc suck bang blow smokehouse
+concord,nc lodge wood fired grill
+concord,nc taco time
+concord,nc iron thunder saloon
+concord,nc mcdonalds
+concord,nc firehouse subs
+concord,nc jimmy john
+concord,nc rosario pizza
+concord,nc sticky fingers ribhouse
+concord,nc fresh off the grill
+concord,nc papa john pizza
+concord,nc freddy frozen custard steakburgers
+concord,nc what burger no
+concord,nc jim nick bar
+concord,nc jimmy john
+concord,nc nonna pizza and restaurant
+concord,nc taco bell
+concord,nc buffalo wild wings
+concord,nc the wine room
+concord,nc mcalister deli
+concord,nc troutman
+concord,nc jersey mike subs
+concord,nc chick fil
+concord,nc sogo japanese seafood steakhouse
+concord,nc benji grill
+concord,nc panera bread
+concord,nc iguana mex mex
+concord,nc casa grande mexican restaurant
+concord,nc arby
+concord,nc alino pizzeria
+concord,nc jets pizza
+concord,nc christo family restaurant
+concord,nc famous toastery
+concord,nc miso sushi grill
+concord,nc cj pub
+concord,nc lake lynn lodge
+concord,nc afton tavern
+concord,nc mekong thai restaurant bar
+concord,nc sogo japanese seafood steakhouse
+concord,nc dave buster
+concord,nc golden corral
+concord,nc el vallarta
+concord,nc moe southwest grill
+concord,nc sonic drive in
+concord,nc not just franks
+concord,nc tsunami
+concord,nc river rock grille
+concord,nc bojangles famous chicken biscuits
+concord,nc breakfastime
+concord,nc spice indian cuisine
+concord,nc giovanni pizza pasta
+concord,nc on the border mexican grill cantina
+concord,nc sabor latino
+concord,nc captains galley seafood shack
+concord,nc chef thai sushi
+concord,nc taco bell
+concord,nc local 25
+concord,nc breakfastime
+concord,nc chick fil
+concord,nc afton pub pizza
+concord,nc the speakeasy alehouse
+concord,nc troutman bar que
+concord,nc parkway house family restaurant
+concord,nc fuji
+concord,nc the speedway club
+concord,nc johnny brusco new york style pizza
+concord,nc hokkaido japanese express
+concord,nc panera bread
+concord,nc jack in the box
+concord,nc wasabi cafe
+concord,nc mai thai
+concord,nc wayside family restaurant
+concord,nc twin peaks
+concord,nc arby
+concord,nc concord family diner

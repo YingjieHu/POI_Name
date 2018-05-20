@@ -1,0 +1,20 @@
+﻿south|euclid,oh walmart
+south|euclid,oh dunkin donuts
+south|euclid,oh marc
+south|euclid,oh piada italian street food
+south|euclid,oh starbucks
+south|euclid,oh coffee phix cafe
+south|euclid,oh sanctuary on green
+south|euclid,oh the bagel shoppe
+south|euclid,oh walmart supercenter
+south|euclid,oh cookie cupcake
+south|euclid,oh giant eagle
+south|euclid,oh coffee phix cafe
+south|euclid,oh panera bread
+south|euclid,oh fawaky burst
+south|euclid,oh bruegger bagels
+south|euclid,oh getgo
+south|euclid,oh walgreens
+south|euclid,oh gordon food service
+south|euclid,oh phoenix coffee
+south|euclid,oh churned ice cream shop

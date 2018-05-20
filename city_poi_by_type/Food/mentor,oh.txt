@@ -1,0 +1,59 @@
+﻿mentor,oh save on tobacco beverage
+mentor,oh panera bread
+mentor,oh dunkin donuts baskin robbins
+mentor,oh east coast original frozen custard
+mentor,oh dairy queen
+mentor,oh tommy jerky outlet
+mentor,oh bruegger bagels
+mentor,oh bj restaurant brewhouse
+mentor,oh malley chocolates
+mentor,oh wild spork food truck
+mentor,oh heinen grocery store
+mentor,oh golden crust bakery
+mentor,oh the olive and the grape
+mentor,oh cakes to you
+mentor,oh thai 999 express
+mentor,oh guilio bonazza pizzeria
+mentor,oh kuhar carryout
+mentor,oh starbucks
+mentor,oh brew mentor
+mentor,oh euclid fish company
+mentor,oh dairy queen
+mentor,oh krave restaurant bar
+mentor,oh scooter dawghouse
+mentor,oh dunkin donuts
+mentor,oh mentor family foods
+mentor,oh little mountain brewing company
+mentor,oh winking lizard
+mentor,oh world wines liquors
+mentor,oh on the avenue
+mentor,oh starbucks
+mentor,oh the proper pig smokehouse
+mentor,oh sheetz
+mentor,oh twisted paddy
+mentor,oh discount drug mart
+mentor,oh bakers square
+mentor,oh melt bar grilled
+mentor,oh gloria jean coffees
+mentor,oh primozz pizzeria and restaurant
+mentor,oh barb patty butcher palace
+mentor,oh red wine brew mentor
+mentor,oh harry hofbrau
+mentor,oh spudnut shop donuts
+mentor,oh papa joe subs pasta
+mentor,oh walmart
+mentor,oh best gyros
+mentor,oh getgo
+mentor,oh cle juice box
+mentor,oh java express cafe
+mentor,oh chick fil
+mentor,oh marc stores
+mentor,oh the confectionary cupboard
+mentor,oh great harvest bread company
+mentor,oh seekers coffee house
+mentor,oh local tavern
+mentor,oh concord family restaurant
+mentor,oh panera bread
+mentor,oh below ice cream
+mentor,oh verdi italian market
+mentor,oh froyo twist

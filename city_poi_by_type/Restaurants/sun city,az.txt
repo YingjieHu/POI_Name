@@ -1,0 +1,43 @@
+﻿sun|city,az betty rooste
+sun|city,az wow cafe
+sun|city,az george lakeview cafe
+sun|city,az sunset bistro
+sun|city,az chang lee restaurant
+sun|city,az domino pizza
+sun|city,az jb restaurants
+sun|city,az bobbie cafe of sun city
+sun|city,az benny burgers bbq
+sun|city,az filiberto mexican food
+sun|city,az royal cafe
+sun|city,az jimichael restaurant
+sun|city,az taco bell
+sun|city,az dominic bistro italiano
+sun|city,az starbucks
+sun|city,az dairy queen
+sun|city,az jack in the box
+sun|city,az pizza hut
+sun|city,az memo bistro
+sun|city,az mcdonald
+sun|city,az la petite cafe
+sun|city,az subway
+sun|city,az carrow family restaurant
+sun|city,az little sicily
+sun|city,az china olive super buffet
+sun|city,az little bite of italy
+sun|city,az subway
+sun|city,az new china super buffet
+sun|city,az corta bella golf club
+sun|city,az kfc
+sun|city,az señor taco
+sun|city,az sunset gyros
+sun|city,az golden star chinese food restaurant
+sun|city,az arby
+sun|city,az romen gyros
+sun|city,az furr buffet
+sun|city,az line thai restaurant
+sun|city,az coco family restaurant
+sun|city,az don jose
+sun|city,az big burrito
+sun|city,az coco family restaurant
+sun|city,az jade star
+sun|city,az nino mexican food restaurant

@@ -1,0 +1,23 @@
+﻿urbana,il eastland suites
+urbana,il datta taxi charter
+urbana,il wilbur taxi
+urbana,il illini union hotel
+urbana,il urbana landmark hotel
+urbana,il ramada urbana champaign
+urbana,il cab
+urbana,il hanford inn and suites
+urbana,il comfort suites urbana champaign university area
+urbana,il motel
+urbana,il econo lodge champaign urbana university area
+urbana,il super urbana
+urbana,il wyndham garden urbana champaign
+urbana,il jet cab
+urbana,il hampton inn champaign urbana
+urbana,il reynolds towing service
+urbana,il arrow taxicab service
+urbana,il historic lincoln hotel
+urbana,il america best inns and suites
+urbana,il holiday inn hotel champaign urbana
+urbana,il peoria charter coach company
+urbana,il sleep inn champaign urbana university area
+urbana,il holiday inn express suites urbana champaign

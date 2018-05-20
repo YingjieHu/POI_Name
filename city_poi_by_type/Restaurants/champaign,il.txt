@@ -1,0 +1,378 @@
+﻿champaign,il fiesta ranchera
+champaign,il mcdonald
+champaign,il basil thai cafe
+champaign,il buttitta
+champaign,il papa bar grill
+champaign,il white horse inn
+champaign,il tasty fish chicken grill
+champaign,il long john silver
+champaign,il luna
+champaign,il lone star steakhouse saloon
+champaign,il dos reales
+champaign,il the clark bar
+champaign,il chevys fresh mex
+champaign,il escobar restaurant
+champaign,il ginger asian bistro
+champaign,il scotty brewhouse
+champaign,il the himalayan chimney
+champaign,il far east
+champaign,il houlihan
+champaign,il murphy deli
+champaign,il bombay indian grill
+champaign,il hilton garden inn
+champaign,il arby
+champaign,il le peep restaurant
+champaign,il merry ann diner
+champaign,il edible arrangements
+champaign,il smoke que brew
+champaign,il campus burger
+champaign,il panda express
+champaign,il mezzaluna
+champaign,il los amigos
+champaign,il mandarin wok
+champaign,il destihl restaurant brew works
+champaign,il denny
+champaign,il sarku japan
+champaign,il empire chinese restaurant
+champaign,il ri rang
+champaign,il cravings
+champaign,il cowboy monkey
+champaign,il fat sandwich company
+champaign,il yellowfin japanese restaurant
+champaign,il mia za cafe
+champaign,il sun singer wine and spirits
+champaign,il panda express
+champaign,il sliders
+champaign,il south china restaurant
+champaign,il penn station
+champaign,il domino pizza
+champaign,il steak shake
+champaign,il carmon restaurant
+champaign,il milk tea house
+champaign,il pancheros mexican grill
+champaign,il kofusion
+champaign,il golden harbor authentic chinese cuisine
+champaign,il dragon fire pizza
+champaign,il fresh international market
+champaign,il fat city saloon
+champaign,il el toro mexican restaurant
+champaign,il old chicago
+champaign,il aroma cafe
+champaign,il wingin out
+champaign,il zorba restaurant
+champaign,il natural gourmet
+champaign,il baskin robbins
+champaign,il hamilton walker
+champaign,il pickles
+champaign,il big fish chicken
+champaign,il miga
+champaign,il which wich
+champaign,il prime time pizza
+champaign,il chester bbq
+champaign,il china king
+champaign,il esquire lounge
+champaign,il harold chicken shack
+champaign,il sonic
+champaign,il mcdonald
+champaign,il espresso royale
+champaign,il guido bar grill
+champaign,il carmon bistro
+champaign,il maize mexican grill
+champaign,il zelma
+champaign,il salad meister
+champaign,il let take seat thai cuisine
+champaign,il big mouth
+champaign,il jimmy john
+champaign,il five guys burgers fries
+champaign,il station pizza
+champaign,il best wok
+champaign,il meatheads
+champaign,il drew pizza
+champaign,il noodles company
+champaign,il 301 mongolia
+champaign,il caribbean grill restaurant
+champaign,il sushi grill
+champaign,il bob evans
+champaign,il ruby tuesday
+champaign,il leadbelly
+champaign,il cabo cantina and grill
+champaign,il san maru
+champaign,il subway
+champaign,il subway
+champaign,il niro gyros
+champaign,il bacaro
+champaign,il seaboat
+champaign,il el charro
+champaign,il burrito king
+champaign,il steak shake
+champaign,il pho cafe
+champaign,il original pancake house
+champaign,il boneyard bar bbq
+champaign,il li porgy bar que
+champaign,il geovanti
+champaign,il garcia pizza in pan
+champaign,il dorcas restaurant
+champaign,il papa john pizza
+champaign,il papa john pizza
+champaign,il hooters
+champaign,il silver mine subs
+champaign,il red robin gourmet burgers
+champaign,il taco bell
+champaign,il chinatown buffet
+champaign,il ambar india
+champaign,il billy barooz bar grill
+champaign,il outback steakhouse
+champaign,il maize
+champaign,il manzella italian patio
+champaign,il auntie lee chinese kitchen
+champaign,il lai lai wok
+champaign,il slim chickens
+champaign,il mcdonald
+champaign,il radio maria
+champaign,il rocks
+champaign,il firehouse subs
+champaign,il hometown buffet
+champaign,il spoon house korean kitchen
+champaign,il culver
+champaign,il orange brew
+champaign,il mcdonalds
+champaign,il jimmy john
+champaign,il arby
+champaign,il wood hog barbecue
+champaign,il firehaus
+champaign,il amano pizza
+champaign,il wedge tequila bar grill
+champaign,il sushi ichiban
+champaign,il woori jib restaurant
+champaign,il casablanca kabab house
+champaign,il boston pizza
+champaign,il papa george
+champaign,il meijer
+champaign,il wienerschnitzel
+champaign,il caribbean grill food truck
+champaign,il asian taste restaurant
+champaign,il el toro bravo
+champaign,il penn station
+champaign,il jimmy john
+champaign,il pizza hut
+champaign,il buca di beppo italian restaurant
+champaign,il texas roadhouse
+champaign,il biaggi ristorante italiano
+champaign,il chili
+champaign,il fire station pizza and pub
+champaign,il sushi avenue
+champaign,il rainbow garden
+champaign,il bombay indian grill
+champaign,il the hub
+champaign,il roks tacos korean bbq tacos
+champaign,il peking garden restaurant
+champaign,il green street cafe
+champaign,il sushi kame
+champaign,il wingstop
+champaign,il alexander steakhouse
+champaign,il super niro gyro
+champaign,il home of gourmet chinese thai restaurant
+champaign,il five guys
+champaign,il taco bell
+champaign,il jet pizza
+champaign,il seven saints
+champaign,il good fella korean bistro
+champaign,il one world pizza
+champaign,il merry ann diner
+champaign,il bobo bbq
+champaign,il green jade
+champaign,il big grove tavern
+champaign,il brixx wood fired pizza
+champaign,il qdoba mexican grill
+champaign,il sushi rock
+champaign,il zyggyz
+champaign,il chipotle mexican grill
+champaign,il old time meat deli shoppe
+champaign,il panera bread
+champaign,il papa del pizza at the crossing
+champaign,il golden wok
+champaign,il applebee grill bar
+champaign,il shanghai 1938
+champaign,il wedge tequila bar grill
+champaign,il cafe sababa
+champaign,il papa del pizza
+champaign,il little caesar pizza
+champaign,il 8f ice cream crepe
+champaign,il world harvest foods
+champaign,il giordano
+champaign,il koto ramen
+champaign,il jipbap taste of korea
+champaign,il dp dough
+champaign,il burrito king
+champaign,il basmati indian cuisine
+champaign,il flat top grill
+champaign,il the ribeye
+champaign,il aroma curry house
+champaign,il sarku japan
+champaign,il chopstix
+champaign,il pasha mediterranean cuisine
+champaign,il my thai
+champaign,il spicy tang
+champaign,il tgi friday
+champaign,il moe southwest grill
+champaign,il nando milano trattoria
+champaign,il bo bo china
+champaign,il baxter american grille
+champaign,il art mart
+champaign,il panera bread
+champaign,il super taco
+champaign,il cactus grill
+champaign,il minneci ristorante
+champaign,il pia sports bar grill
+champaign,il sammy pancake house
+champaign,il istanbul mediterranean cuisine
+champaign,il fazoli
+champaign,il thara thai
+champaign,il kaiyo japaneese restaurant
+champaign,il uncle jack family restaurant
+champaign,il subway
+champaign,il einstein bros bagels
+champaign,il wendy
+champaign,il krispy krunchy chicken
+champaign,il mas amigos
+champaign,il taffies restaurant
+champaign,il cheese and crackers
+champaign,il murphy pub
+champaign,il azzip pizza
+champaign,il mcdonald
+champaign,il jupiter pizzeria and billiards
+champaign,il legends
+champaign,il atlanta bread
+champaign,il six minute chinese
+champaign,il jerusalem middle eastern cuisine
+champaign,il ozu ramen
+champaign,il honeybaked ham cafe
+champaign,il hybrid fit food
+champaign,il charley restaurant bar
+champaign,il popeyes louisiana kitchen
+champaign,il kamakura japanese restaurant
+champaign,il yori korean grill bar
+champaign,il el torero
+champaign,il pekara bakery and bistro
+champaign,il guadalajara bar grill
+champaign,il picasso
+champaign,il kohinoor indian restaurant and lounge
+champaign,il layalina mediterranean grill
+champaign,il minneci at the crossing
+champaign,il boltini lounge
+champaign,il mas amigos truck
+champaign,il dublin neil
+champaign,il panera bread
+champaign,il doodles
+champaign,il sakanaya restaurant
+champaign,il ihop
+champaign,il kam
+champaign,il burger king
+champaign,il ansun
+champaign,il mcalister deli
+champaign,il fiesta ranchero
+champaign,il szechuan china
+champaign,il crazy buffet
+champaign,il mr kyoto
+champaign,il jim gould
+champaign,il mashawi grill
+champaign,il the eatery
+champaign,il domino pizza
+champaign,il mango mango creamery
+champaign,il crepe cafe
+champaign,il mid summer lounge
+champaign,il subway
+champaign,il black dog smoke ale house
+champaign,il watson shack rail
+champaign,il seoul taco
+champaign,il red lobster
+champaign,il oishi
+champaign,il el patio
+champaign,il cheddar casual cafe
+champaign,il taco john
+champaign,il garcia pizza in pan
+champaign,il longhorn steakhouse
+champaign,il bobo china
+champaign,il holy land mediterranean grill
+champaign,il layalina mediterranean grill
+champaign,il olive garden italian restaurant
+champaign,il jersey mike subs
+champaign,il bowl
+champaign,il bangkok thai and pho 911
+champaign,il mcdonald
+champaign,il subway
+champaign,il jack grill mediterranean cuisine
+champaign,il antonio pizza
+champaign,il jurassic grill
+champaign,il curtis orchard pumpkin patch
+champaign,il sam cafe
+champaign,il mcdonald
+champaign,il la bamba
+champaign,il huhot mongolian grill
+champaign,il ming garden
+champaign,il mirsung
+champaign,il super wok
+champaign,il jillian
+champaign,il za italian cafe
+champaign,il chipotle mexican grill
+champaign,il kung fu bbq
+champaign,il hot pot lab
+champaign,il the pita pit
+champaign,il number one wok
+champaign,il farmhouse restaurant at harvest market
+champaign,il farren pub eatery
+champaign,il nitaya thai restaurant
+champaign,il prairie fire restaurant
+champaign,il krispy krunchy chicken
+champaign,il ichiban buffet
+champaign,il subway
+champaign,il burger king
+champaign,il hubers
+champaign,il won
+champaign,il jimmy john
+champaign,il potbelly sandwich shop
+champaign,il fiesta cafe
+champaign,il sairam om
+champaign,il latea bubble tea lounge
+champaign,il hardee
+champaign,il panda express
+champaign,il kfc
+champaign,il doughbelly subs
+champaign,il za italian cafe
+champaign,il papa murphy
+champaign,il wienerschnitzel
+champaign,il tgi fridays
+champaign,il ryan
+champaign,il la bamba
+champaign,il evo cafe
+champaign,il buffalo wild wings
+champaign,il kato cajun
+champaign,il pizza hut
+champaign,il taco bell
+champaign,il dom patio villa
+champaign,il the beef stand
+champaign,il monical pizza
+champaign,il subway
+champaign,il jet pizza
+champaign,il wendy
+champaign,il culver
+champaign,il pizzeria antica
+champaign,il cracked the egg came first
+champaign,il wonderdogs
+champaign,il hardee
+champaign,il spicy tang
+champaign,il vinny east coast pizzeria
+champaign,il joe brewery
+champaign,il gumby pizza
+champaign,il dunkin donuts
+champaign,il monical pizza
+champaign,il tortica grill
+champaign,il jimmy john
+champaign,il dairy queen
+champaign,il domino pizza
+champaign,il taco loco
+champaign,il rice garden
+champaign,il jupiter pizzeria and billards
+champaign,il pie the limit
+champaign,il hut hut food truck
+champaign,il portillo

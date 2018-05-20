@@ -1,0 +1,91 @@
+﻿parma,oh pizzafire
+parma,oh make believe
+parma,oh arby
+parma,oh the hot dog diner
+parma,oh papa john pizza
+parma,oh watami japanese seafood buffet grill
+parma,oh hive
+parma,oh jersey mike subs
+parma,oh panera bread
+parma,oh panda express
+parma,oh priya indian restaurant
+parma,oh chuck cheese
+parma,oh chipotle mexican grill
+parma,oh charm thai restaurant
+parma,oh corleone ristorante bar
+parma,oh tarboosh eatery
+parma,oh gentile bakery catering deli
+parma,oh denny
+parma,oh antonio
+parma,oh barabicu smokehouse
+parma,oh taco bell
+parma,oh taydo vietnamese chinese restaurant
+parma,oh sittoo pita salads
+parma,oh raxx burgers brews and cues
+parma,oh maya mexican
+parma,oh romeo pizza
+parma,oh marco pizza
+parma,oh johnny malloy sports pub
+parma,oh wall street tavern
+parma,oh five guys
+parma,oh tony family restaurant
+parma,oh mimi family restaurant
+parma,oh chipotle mexican grill
+parma,oh fast eddie
+parma,oh steak shake
+parma,oh ni express chinese restaurant
+parma,oh hometown buffet
+parma,oh mcdonald
+parma,oh mack beverage
+parma,oh vivo ristorante
+parma,oh pulp juice smoothie bar
+parma,oh kfc
+parma,oh fox hound english pub grille
+parma,oh grovewood grill
+parma,oh cancun mexican restaurant
+parma,oh mcdonald
+parma,oh guys pizza co
+parma,oh wendy
+parma,oh asian garden
+parma,oh 6flavors indian cuisine
+parma,oh taco bell
+parma,oh pizza hut
+parma,oh little caesars pizza
+parma,oh kumo japanese seafood buffet
+parma,oh seoul garden
+parma,oh outback steakhouse
+parma,oh chipotle mexican grill
+parma,oh subway
+parma,oh grillers pub
+parma,oh fuji grill buffet
+parma,oh das schnitzel haus
+parma,oh gyro spot
+parma,oh red lobster
+parma,oh donatos parma
+parma,oh mcdonald
+parma,oh olive garden italian restaurant
+parma,oh blue ginger asian bistro
+parma,oh grandma helen kitchen
+parma,oh rito italian bakery deli
+parma,oh qdoba mexican eats
+parma,oh tradesman tavern
+parma,oh two bucks
+parma,oh north coast pizza subs
+parma,oh rally
+parma,oh jimmy john
+parma,oh southside diner
+parma,oh taco bell
+parma,oh domino pizza
+parma,oh jet pizza
+parma,oh dickey bbq pit
+parma,oh jordan family restaurant
+parma,oh union house bar restaurant
+parma,oh famous gyro george
+parma,oh tal bakery deli
+parma,oh brew garden
+parma,oh little polish diner
+parma,oh mr chicken
+parma,oh mizu japanese sushi restaurant
+parma,oh pappou cafe
+parma,oh mission bbq
+parma,oh kosta and vic family restaurant

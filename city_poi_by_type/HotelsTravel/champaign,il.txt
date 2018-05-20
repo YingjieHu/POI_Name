@@ -1,0 +1,46 @@
+﻿champaign,il suburban express
+champaign,il quality inn suites
+champaign,il hilton garden inn
+champaign,il enterprise rent car
+champaign,il home2 suites by hilton
+champaign,il enterprise rent car
+champaign,il lincolnland express
+champaign,il greyhound bus lines
+champaign,il illini shuttle
+champaign,il days inn champaign urbana
+champaign,il la quinta inn champaign
+champaign,il amtrak
+champaign,il americas best value inn
+champaign,il fairfield inn suites by marriott champaign
+champaign,il super champaign
+champaign,il country inn suites
+champaign,il the lincoln lodge urbana
+champaign,il lake camping fishing
+champaign,il studio hair design
+champaign,il yellow checker cab
+champaign,il value place champaign
+champaign,il hotel and conference center
+champaign,il lex lincolnland express
+champaign,il townplace suites
+champaign,il andy enterprise auto beauty
+champaign,il red roof inn champaign
+champaign,il candlewood suites champaign urbana univ area
+champaign,il residence inn champaign
+champaign,il william staerkel planetarium
+champaign,il extended stay america champaign urbana
+champaign,il hertz rent car
+champaign,il microtel inn suites by wyndham champaign
+champaign,il black cab limo
+champaign,il taxi
+champaign,il atlas cab
+champaign,il starr limousine
+champaign,il wingate by wyndham champaign
+champaign,il hertz rent car
+champaign,il hawthorn suites by wyndham champaign
+champaign,il the avenue bed breakfast
+champaign,il hyatt place champaign urbana
+champaign,il drury inn suites champaign
+champaign,il baymont inn and suites champaign
+champaign,il courtyard champaign
+champaign,il orange express taxi
+champaign,il homewood suites by hilton champaign urbana

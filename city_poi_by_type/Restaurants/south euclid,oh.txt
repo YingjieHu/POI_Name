@@ -1,0 +1,25 @@
+﻿south|euclid,oh piada italian street food
+south|euclid,oh wingstop
+south|euclid,oh coffee phix cafe
+south|euclid,oh tiki time bistro
+south|euclid,oh issi place
+south|euclid,oh zoup
+south|euclid,oh sanctuary on green
+south|euclid,oh hibachi one
+south|euclid,oh china gate
+south|euclid,oh steak shake
+south|euclid,oh coffee phix cafe
+south|euclid,oh bob evans
+south|euclid,oh pacific grill
+south|euclid,oh jimmy john
+south|euclid,oh redhot cabana
+south|euclid,oh chipotle mexican grill
+south|euclid,oh little caesars pizza
+south|euclid,oh panda buffet
+south|euclid,oh panera bread
+south|euclid,oh burger king
+south|euclid,oh panda express
+south|euclid,oh rummy bar and grill
+south|euclid,oh five guys
+south|euclid,oh sam sylks chicken fish
+south|euclid,oh bruegger bagels

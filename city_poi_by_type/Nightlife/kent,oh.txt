@@ -1,0 +1,31 @@
+﻿kent,oh buffalo wild wings
+kent,oh longhitano gallery pub grille
+kent,oh rays place
+kent,oh professor pub
+kent,oh buffalo wild wings
+kent,oh firefly hookah bar
+kent,oh nineteen10
+kent,oh mugs brew pub
+kent,oh brewhouse pub
+kent,oh water street tavern
+kent,oh stone tavern
+kent,oh the field
+kent,oh 157 lounge
+kent,oh venice cafe
+kent,oh ohio music shop
+kent,oh fresco mexican grill salsa bar
+kent,oh madcap brew
+kent,oh applebee
+kent,oh 101 bottles of beer on the wall
+kent,oh franklin hotel bar
+kent,oh the kent stage
+kent,oh loft
+kent,oh bill white twin star lanes
+kent,oh rico restaurant lounge
+kent,oh the dome
+kent,oh panini bar grill
+kent,oh secret cellar
+kent,oh zephyr pub spirits
+kent,oh los girasoles
+kent,oh pufferbelly
+kent,oh kent lanes 11th frame

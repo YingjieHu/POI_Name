@@ -1,0 +1,421 @@
+﻿cleveland,oh moe bar
+cleveland,oh happy dog at the euclid tavern
+cleveland,oh brio tuscan grille
+cleveland,oh on air studio
+cleveland,oh zócalo tequilería
+cleveland,oh 811 kitchen bar lounge
+cleveland,oh lancer bar lounge
+cleveland,oh liquid
+cleveland,oh alex bistro bar closed
+cleveland,oh porco lounge and tiki room
+cleveland,oh clifton martini wine bar
+cleveland,oh michael bar grille
+cleveland,oh now that class lounge
+cleveland,oh larry flynt hustler club
+cleveland,oh gino cento anno
+cleveland,oh tommy fairview tavern
+cleveland,oh bon vivant
+cleveland,oh the millard fillmore presidential library
+cleveland,oh memphis station bar grill
+cleveland,oh brown derby
+cleveland,oh cebars
+cleveland,oh rowley inn
+cleveland,oh moriarty pub
+cleveland,oh brick house
+cleveland,oh boardwalk
+cleveland,oh felice
+cleveland,oh grovewood tavern and wine bar
+cleveland,oh foundation room
+cleveland,oh corner alley
+cleveland,oh cleveland chop
+cleveland,oh rumor bar lounge
+cleveland,oh the tavern on biddulph
+cleveland,oh swagger tavern
+cleveland,oh anatomy nightclub ultralounge
+cleveland,oh tick tock tavern
+cleveland,oh abc the tavern
+cleveland,oh 2nd high social house
+cleveland,oh bounce cleveland
+cleveland,oh great lakes brewing co
+cleveland,oh ontario street cafe
+cleveland,oh brothers lounge
+cleveland,oh butcher and the brewer
+cleveland,oh pounders bar grill
+cleveland,oh the cleveland orchestra
+cleveland,oh tavern of little italy
+cleveland,oh blue fig hookah cafe
+cleveland,oh black forest
+cleveland,oh magnolia
+cleveland,oh back stage bar
+cleveland,oh vino veritas little italy
+cleveland,oh callaloo café and bar
+cleveland,oh karl inn of the barristers
+cleveland,oh luxe kitchen lounge
+cleveland,oh dina pizza pub
+cleveland,oh the clubhouse
+cleveland,oh lincoln park pub
+cleveland,oh literary cafe
+cleveland,oh table 45
+cleveland,oh wonder bar
+cleveland,oh house of swing
+cleveland,oh etna restaurant wine bar
+cleveland,oh highland square tavern
+cleveland,oh yuengling bar 1829
+cleveland,oh bar 32
+cleveland,oh the reddstone
+cleveland,oh beachland ballroom and tavern
+cleveland,oh taj mahal hookah
+cleveland,oh rivergate tavern
+cleveland,oh ugly broad tavern
+cleveland,oh pasha cafe
+cleveland,oh bob golic sports bar and grille
+cleveland,oh twin lanes bowling alley
+cleveland,oh chili
+cleveland,oh encore rock bar grill
+cleveland,oh art pub
+cleveland,oh panini bar grill
+cleveland,oh mocé cafe and bar
+cleveland,oh grog shop
+cleveland,oh bert iris wolstein center
+cleveland,oh table restaurant lounge
+cleveland,oh vault
+cleveland,oh time warner cable
+cleveland,oh portside
+cleveland,oh mill tavern
+cleveland,oh danny mac
+cleveland,oh pearl road tavern eatery
+cleveland,oh improv
+cleveland,oh crop rocks
+cleveland,oh vine wine bar
+cleveland,oh stone mad pub
+cleveland,oh abc the tavern
+cleveland,oh panini on coventry
+cleveland,oh red bar and lounge
+cleveland,oh champps restaurant bar
+cleveland,oh crazy horse cabaret
+cleveland,oh sammy beach bar grill
+cleveland,oh bop stop
+cleveland,oh harry buffalo
+cleveland,oh hard rock cafe
+cleveland,oh fahrenheit
+cleveland,oh huron point tavern
+cleveland,oh hotz café
+cleveland,oh kan zaman
+cleveland,oh escape in 60
+cleveland,oh the third place
+cleveland,oh fat cats
+cleveland,oh sub city
+cleveland,oh buffalo wild wings
+cleveland,oh holy craft
+cleveland,oh red the steakhouse
+cleveland,oh leather stallion saloon
+cleveland,oh be adventurous
+cleveland,oh bonkerz comedy club
+cleveland,oh the bank
+cleveland,oh buffalo wild wings
+cleveland,oh coda
+cleveland,oh severance hall
+cleveland,oh fracas restaurant
+cleveland,oh the hub bar grill
+cleveland,oh rookies
+cleveland,oh jezebels bayou
+cleveland,oh shula
+cleveland,oh coquette patisserie
+cleveland,oh dna level
+cleveland,oh hi and dry
+cleveland,oh purple shamrock
+cleveland,oh crop bistro
+cleveland,oh secret gentleman club
+cleveland,oh punch bowl social cleveland
+cleveland,oh club argos
+cleveland,oh bin 216
+cleveland,oh the cleveland public auditorium and conference center
+cleveland,oh house of blues music venue
+cleveland,oh hofbrauhaus cleveland
+cleveland,oh the harp
+cleveland,oh lobby lounge on
+cleveland,oh paninis bar grill
+cleveland,oh cleveland bartending school
+cleveland,oh scorchers casual eatery draft house
+cleveland,oh tilted kilt pub eatery
+cleveland,oh battery park wine bar
+cleveland,oh hodge
+cleveland,oh cocktails cleveland
+cleveland,oh flyers bar grill
+cleveland,oh dynomite burgers sushi
+cleveland,oh viaduct lounge
+cleveland,oh public house
+cleveland,oh gillespie map room
+cleveland,oh vibe bar patio
+cleveland,oh platform beer co
+cleveland,oh parnell irish pub
+cleveland,oh tapstack
+cleveland,oh nuevo modern mexican tequila bar
+cleveland,oh ironwood cafe
+cleveland,oh gepetto and johnny malloy
+cleveland,oh bar louie
+cleveland,oh toast
+cleveland,oh harvard wine grill
+cleveland,oh applebee
+cleveland,oh spirits
+cleveland,oh wings sports bar grill
+cleveland,oh lounge leo
+cleveland,oh the pub
+cleveland,oh academy tavern
+cleveland,oh grayton road tavern
+cleveland,oh the old angle tavern
+cleveland,oh otto moser restaurant
+cleveland,oh peabody concert club
+cleveland,oh banter beer wine
+cleveland,oh bar and kitchen
+cleveland,oh christie cabaret
+cleveland,oh pj mcintyres irish pub
+cleveland,oh coastal taco
+cleveland,oh marjees bar grill
+cleveland,oh lancers on 21
+cleveland,oh the spotted dog
+cleveland,oh characters sports bar and grill
+cleveland,oh anthonys of little italy
+cleveland,oh xyz bar
+cleveland,oh jinna hookah café
+cleveland,oh tequila ranch
+cleveland,oh jukebox
+cleveland,oh margaritaville cleveland
+cleveland,oh bar cento
+cleveland,oh rebol
+cleveland,oh oasis
+cleveland,oh the treehouse
+cleveland,oh 4th street bar grill
+cleveland,oh 21 lounge kitchen
+cleveland,oh chicago home of chicken waffles
+cleveland,oh rocco
+cleveland,oh lion pub
+cleveland,oh lola
+cleveland,oh the tool shed
+cleveland,oh grotto wine bar
+cleveland,oh the highlander
+cleveland,oh nick sports corner
+cleveland,oh the velvet dog
+cleveland,oh crazy horse
+cleveland,oh the garage bar
+cleveland,oh anthony sports bar restaurant catering
+cleveland,oh the cadillac ranch
+cleveland,oh twist
+cleveland,oh hookah vapor
+cleveland,oh estlavie
+cleveland,oh and tavern
+cleveland,oh bounce nightclub hinge lounge
+cleveland,oh clark bar
+cleveland,oh leader bar and grill
+cleveland,oh touch supper club
+cleveland,oh hoopples
+cleveland,oh parkview nite club
+cleveland,oh cinema lounge
+cleveland,oh pat in the flats
+cleveland,oh the clevelander
+cleveland,oh benihana
+cleveland,oh re bar
+cleveland,oh state road tavern
+cleveland,oh flex cleveland
+cleveland,oh fwd dayclub+nightclub
+cleveland,oh houlihan
+cleveland,oh the big bang
+cleveland,oh encore restaurant and blue bar
+cleveland,oh drink bar grill
+cleveland,oh johnny little bar
+cleveland,oh performance arts center at cleveland masonic auditorium
+cleveland,oh merchant street
+cleveland,oh happy dog
+cleveland,oh the south side
+cleveland,oh market creations cafe
+cleveland,oh the mercury lounge
+cleveland,oh nighttown
+cleveland,oh camino
+cleveland,oh flipside
+cleveland,oh duck island club
+cleveland,oh united club
+cleveland,oh dragonfly lounge
+cleveland,oh nano brew
+cleveland,oh knuckleheads
+cleveland,oh becky
+cleveland,oh casey jones tavern
+cleveland,oh mean bull
+cleveland,oh music hall cleveland
+cleveland,oh don ramon grand fiesta mexican restaurant
+cleveland,oh xyz the tavern
+cleveland,oh ligali bistro
+cleveland,oh the corner alley at uptown
+cleveland,oh barfly
+cleveland,oh society lounge
+cleveland,oh smedley bar grill
+cleveland,oh cropicana
+cleveland,oh scorchers
+cleveland,oh gusto
+cleveland,oh break time bar and grill
+cleveland,oh corks playhouse square
+cleveland,oh aloosh hookah bar
+cleveland,oh sachsenheim hall
+cleveland,oh amp 150
+cleveland,oh visible voice books
+cleveland,oh soho chicken whiskey
+cleveland,oh applebee
+cleveland,oh hansa brewery
+cleveland,oh jack cleveland casino
+cleveland,oh barrio
+cleveland,oh pickwick frolic restaurant club
+cleveland,oh vita urbana
+cleveland,oh whiskey island still eatery
+cleveland,oh gateway bar and grill
+cleveland,oh hilarities 4th street theatre
+cleveland,oh flat iron café
+cleveland,oh velvet tango room
+cleveland,oh caddy shack lounge pro shop
+cleveland,oh the spotted owl
+cleveland,oh durty nelly pub
+cleveland,oh euclid tavern
+cleveland,oh la cave du vin
+cleveland,oh sterle country house
+cleveland,oh press wine bar
+cleveland,oh woody bar grille
+cleveland,oh crop kitchen
+cleveland,oh arcadian food drink
+cleveland,oh east end restaurant bar
+cleveland,oh spy bar
+cleveland,oh ridgewood inn
+cleveland,oh wexler tavern eatery
+cleveland,oh valerio restaurant
+cleveland,oh pizza 216
+cleveland,oh thirsty parrot
+cleveland,oh cleveland beer cellars
+cleveland,oh market avenue wine bar
+cleveland,oh shooters on the water
+cleveland,oh slim chubby bar grill
+cleveland,oh west park village tavern
+cleveland,oh rudy pub
+cleveland,oh wilbert food music
+cleveland,oh sokolowski university inn
+cleveland,oh ledger bar
+cleveland,oh ilthy workshop
+cleveland,oh mccarthy downtown
+cleveland,oh the bourbon street barrel room
+cleveland,oh flying monkey pub
+cleveland,oh wild eagle saloon
+cleveland,oh the barking spider tavern
+cleveland,oh goodfellers
+cleveland,oh post and beam
+cleveland,oh the monkey bar and grill
+cleveland,oh the jolly scholar
+cleveland,oh puente viejo
+cleveland,oh the plum cafe kitchen
+cleveland,oh winners sports bar grill
+cleveland,oh ninja city kitchen and bar
+cleveland,oh fox sports bar grille
+cleveland,oh airspace lounge
+cleveland,oh applebee
+cleveland,oh polish legion amer veterans
+cleveland,oh tremont taphouse
+cleveland,oh carney top the flats
+cleveland,oh dive bar
+cleveland,oh forest city brewery
+cleveland,oh mcnultys bier markt
+cleveland,oh karamu performing arts theatre
+cleveland,oh lush hookah lounge
+cleveland,oh fox den
+cleveland,oh old city libations
+cleveland,oh barroom
+cleveland,oh lincoln tap house
+cleveland,oh thirst ten
+cleveland,oh chocolate bar
+cleveland,oh prosperity social club
+cleveland,oh the boneyard beer farm mesquite grill
+cleveland,oh harbor inn
+cleveland,oh edison pub
+cleveland,oh dante next door
+cleveland,oh the parma tavern
+cleveland,oh winking lizard tavern
+cleveland,oh the crystal keg bar grill
+cleveland,oh bakersfield
+cleveland,oh stadium bar grille
+cleveland,oh mcnamara
+cleveland,oh parker downtown
+cleveland,oh flying fig
+cleveland,oh take
+cleveland,oh panini warehouse district
+cleveland,oh nova bar grill
+cleveland,oh mabel bbq
+cleveland,oh applebee
+cleveland,oh cork bottle
+cleveland,oh bold food drink
+cleveland,oh music box supper club
+cleveland,oh spice kitchen bar
+cleveland,oh working class brewery
+cleveland,oh forest city shuffleboard
+cleveland,oh tabletop board game cafe
+cleveland,oh paint nite
+cleveland,oh flannery pub
+cleveland,oh fergie
+cleveland,oh speakeasy
+cleveland,oh winking lizard tavern
+cleveland,oh the hawk
+cleveland,oh beerhead bar eatery
+cleveland,oh tandul
+cleveland,oh victory alley
+cleveland,oh mister
+cleveland,oh murphy law
+cleveland,oh eliot bar
+cleveland,oh night market cleveland
+cleveland,oh provenance
+cleveland,oh drop bar
+cleveland,oh cleats club seat grille old brooklyn
+cleveland,oh tina nite club
+cleveland,oh muse
+cleveland,oh adega
+cleveland,oh valo
+cleveland,oh applebee
+cleveland,oh bar cle
+cleveland,oh barley house
+cleveland,oh jake lounge
+cleveland,oh applebee
+cleveland,oh twist social club
+cleveland,oh brick and barrel
+cleveland,oh stevenson bar grill
+cleveland,oh negative space gallery studio
+cleveland,oh executive den
+cleveland,oh benny sports cafe
+cleveland,oh dantes county line saloon
+cleveland,oh man world
+cleveland,oh david grill bar
+cleveland,oh lava lounge
+cleveland,oh grovewood lounge grille
+cleveland,oh lido lounge
+cleveland,oh 806 martini and wine bar
+cleveland,oh cranky
+cleveland,oh graffiti social kitchen
+cleveland,oh e55 on the lake
+cleveland,oh cedar lee pub grill
+cleveland,oh collision bend brewing company
+cleveland,oh madproaudio
+cleveland,oh jazz 28
+cleveland,oh airspace lounge
+cleveland,oh gordon biersch
+cleveland,oh scorekeepers bar grill
+cleveland,oh city tap
+cleveland,oh agora theatre ballroom
+cleveland,oh vault
+cleveland,oh howl at the moon saloon
+cleveland,oh iron city cafe
+cleveland,oh playmakers
+cleveland,oh diamond men club
+cleveland,oh trentina
+cleveland,oh jacobs pavilion at nautica
+cleveland,oh kelley pub
+cleveland,oh rivals sports grille
+cleveland,oh mulberry
+cleveland,oh morton the steakhouse
+cleveland,oh los arcos mexican restaurant bar and grill
+cleveland,oh pride of erin
+cleveland,oh damons grill
+cleveland,oh cowell hubbard
+cleveland,oh that place on bellflower
+cleveland,oh brookview tavern eatery
+cleveland,oh azure rooftop lounge

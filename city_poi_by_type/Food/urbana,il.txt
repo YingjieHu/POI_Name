@@ -1,0 +1,71 @@
+﻿urbana,il steak shake
+urbana,il burger king
+urbana,il starbucks
+urbana,il cookies by design
+urbana,il cafe zojo
+urbana,il united fuel
+urbana,il county market discount foods
+urbana,il strawberry fields
+urbana,il city girl yogurt
+urbana,il save lot
+urbana,il corkscrew wine emporium
+urbana,il crepe de licious
+urbana,il chang
+urbana,il rubens chocolate
+urbana,il espresso royale
+urbana,il strawberry fields
+urbana,il meat science laboratory
+urbana,il meijer
+urbana,il courier cafe
+urbana,il the empanadas house
+urbana,il tang dynasty
+urbana,il casey general store
+urbana,il perkins restaurant bakery
+urbana,il walgreens
+urbana,il aldi grocery
+urbana,il derald
+urbana,il the dancing dog eatery juicery
+urbana,il el oasis
+urbana,il walmart
+urbana,il silvercreek
+urbana,il market at the square
+urbana,il espresso royale caffe
+urbana,il caffebene
+urbana,il cracker barrel old country store
+urbana,il mirabelle fine pastries
+urbana,il riggs beer company
+urbana,il bent bean
+urbana,il starbucks
+urbana,il hendrick house food truck
+urbana,il sugar by sarah
+urbana,il the morning cup more
+urbana,il bar
+urbana,il intermezzo café
+urbana,il flying machine coffee
+urbana,il burrito king
+urbana,il manolo pizza empanadas
+urbana,il pandamonium doughnuts
+urbana,il hickory river smokehouse
+urbana,il walmart supercenter
+urbana,il espresso royale
+urbana,il urbana butcher shop
+urbana,il dunkin donuts
+urbana,il marco pizza
+urbana,il common ground food co op
+urbana,il eighty eight broadway
+urbana,il schnucks urbana
+urbana,il taco motorizado
+urbana,il wines at the pines
+urbana,il serendipity
+urbana,il art mart
+urbana,il rick bakery cafe
+urbana,il dunkin donuts baskin robbins
+urbana,il walgreens
+urbana,il jamba juice
+urbana,il dairy queen
+urbana,il el progreso
+urbana,il jimmy john
+urbana,il the bread company
+urbana,il jimmy john
+urbana,il caffe paradiso
+urbana,il bevande coffee

@@ -1,0 +1,28 @@
+﻿north|ridgeville,oh senor coyotes
+north|ridgeville,oh uncle bo slow low
+north|ridgeville,oh pizza hut
+north|ridgeville,oh mcdonald
+north|ridgeville,oh lone tree tavern
+north|ridgeville,oh arby
+north|ridgeville,oh fiesta jalapeños
+north|ridgeville,oh bistro 83
+north|ridgeville,oh nino italian restaurant
+north|ridgeville,oh aces grille north ridgeville
+north|ridgeville,oh maria family restaurant
+north|ridgeville,oh domino pizza
+north|ridgeville,oh gourmé family restaurant
+north|ridgeville,oh maing wok kitchen
+north|ridgeville,oh little hong kong
+north|ridgeville,oh our place restaurant lounge
+north|ridgeville,oh pizza pan
+north|ridgeville,oh marco pizza
+north|ridgeville,oh mcdonald
+north|ridgeville,oh fiesta jalapeños mexican grill
+north|ridgeville,oh tommy pizza chicken ribs
+north|ridgeville,oh kim family restaurant
+north|ridgeville,oh all fired up
+north|ridgeville,oh panera bread
+north|ridgeville,oh china king
+north|ridgeville,oh city diner
+north|ridgeville,oh teresa pizza
+north|ridgeville,oh chipotle mexican grill

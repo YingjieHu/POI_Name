@@ -1,0 +1,28 @@
+﻿brooklyn,oh golden corral
+brooklyn,oh cracker barrel old country store
+brooklyn,oh new orleans showboat
+brooklyn,oh ice house tavern and grill
+brooklyn,oh buffalo wild wings
+brooklyn,oh kintaro sushi hot pot
+brooklyn,oh geppetto pizza ribs
+brooklyn,oh hong kong king buffet
+brooklyn,oh carrabba italian grill
+brooklyn,oh chipotle mexican grill
+brooklyn,oh el tolteca mexican grill
+brooklyn,oh mr hero
+brooklyn,oh pizza hut
+brooklyn,oh tgi fridays
+brooklyn,oh hooley house brooklyn
+brooklyn,oh roosters
+brooklyn,oh long john silver
+brooklyn,oh burger king
+brooklyn,oh perkins restaurant bakery
+brooklyn,oh aldo restaurant
+brooklyn,oh texas roadhouse
+brooklyn,oh steak shake
+brooklyn,oh panera bread
+brooklyn,oh plaza grande
+brooklyn,oh skyline chili
+brooklyn,oh china bay
+brooklyn,oh applebee
+brooklyn,oh penn station east coast subs

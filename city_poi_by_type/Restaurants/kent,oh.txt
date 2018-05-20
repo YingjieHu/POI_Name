@@ -1,0 +1,98 @@
+﻿kent,oh brimfield bread oven
+kent,oh chipotle mexican grill
+kent,oh penn station subs
+kent,oh toko japanese steak house
+kent,oh grazers
+kent,oh buffalo wild wings
+kent,oh ming bubble tea
+kent,oh robin nest
+kent,oh panera bread
+kent,oh longhitano gallery pub grille
+kent,oh steak eez
+kent,oh tree city coffee pastry
+kent,oh rays place
+kent,oh eurogyro
+kent,oh mcdonald
+kent,oh pita pit
+kent,oh buffalo wild wings
+kent,oh the dancing beta
+kent,oh yummy garden
+kent,oh ramella pizzeria
+kent,oh 
+kent,oh nineteen10
+kent,oh pizza hut
+kent,oh wild papaya thai cuisine
+kent,oh guacamole
+kent,oh franklin square deli
+kent,oh water street tavern
+kent,oh brimfield family restaurant
+kent,oh taco tonto
+kent,oh laziza
+kent,oh the field
+kent,oh 157 lounge
+kent,oh venice cafe
+kent,oh erie street kitchen
+kent,oh fresco mexican grill salsa bar
+kent,oh mike place
+kent,oh hungry howie pizza
+kent,oh belleria pizza italian restaurant
+kent,oh the dog squad
+kent,oh arby roast beef drive in
+kent,oh tavern at twin lakes
+kent,oh mcdonald
+kent,oh dave cosmic subs
+kent,oh five guys
+kent,oh bricco kent
+kent,oh guys pizza pies
+kent,oh applebee
+kent,oh china city
+kent,oh guys pizza co
+kent,oh franklin hotel bar
+kent,oh la terraza mexican bar grill
+kent,oh bob evans
+kent,oh zoupwerks at acorn alley
+kent,oh baked in the village cafe
+kent,oh the overlook
+kent,oh papa john pizza
+kent,oh newdle bar
+kent,oh belleria pizza italian restaurant
+kent,oh rise shine cafe
+kent,oh lucci place
+kent,oh el dorado
+kent,oh domino pizza
+kent,oh no chinese kitchen
+kent,oh jimmy john
+kent,oh quaker steak lube
+kent,oh laroush
+kent,oh twisted meltz
+kent,oh chipotle mexican grill
+kent,oh mr hero
+kent,oh troy grille
+kent,oh wild goats cafe
+kent,oh bistro on main
+kent,oh henry wahner restaurant lounge
+kent,oh guido original pizza catering
+kent,oh cupsie daisy
+kent,oh rico restaurant lounge
+kent,oh pizzafire
+kent,oh bar 145
+kent,oh rockne
+kent,oh the dome
+kent,oh zz yum fun
+kent,oh evergreen chinese buffet
+kent,oh panini bar grill
+kent,oh ming cheng restaurant
+kent,oh kentwood restaurant lounge
+kent,oh la terraza bar grill
+kent,oh cajun dave
+kent,oh wendy
+kent,oh new york chicago pizzeria ny2c
+kent,oh main street continental grill
+kent,oh riverside wine
+kent,oh wendy
+kent,oh gionino pizzeria
+kent,oh los girasoles
+kent,oh pufferbelly
+kent,oh taco bell
+kent,oh little city grill
+kent,oh mr zub deli

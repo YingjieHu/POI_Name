@@ -1,0 +1,19 @@
+﻿north|royalton,oh zeppe pizzeria
+north|royalton,oh augies pizza ribs
+north|royalton,oh becker
+north|royalton,oh heavenly hill farm
+north|royalton,oh royalwood wine and deli
+north|royalton,oh romano farmers market deli
+north|royalton,oh mugshotz
+north|royalton,oh malley chocolates
+north|royalton,oh discount drug mart
+north|royalton,oh loder shake shoppe
+north|royalton,oh royal park fine wine
+north|royalton,oh mr divot miniature golf
+north|royalton,oh pierozhok
+north|royalton,oh giant eagle
+north|royalton,oh pic quick deli
+north|royalton,oh lang butcher block deli
+north|royalton,oh pinecone ice cream
+north|royalton,oh flair restaurant and cafe
+north|royalton,oh bochellie pizza

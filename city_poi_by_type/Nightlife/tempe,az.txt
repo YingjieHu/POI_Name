@@ -1,0 +1,214 @@
+﻿tempe,az amf tempe village lanes
+tempe,az innovative vapors
+tempe,az dierks bentley whiskey row
+tempe,az yucca tap room
+tempe,az gordon biersch brewery restaurant
+tempe,az four peaks brewing
+tempe,az habookah
+tempe,az devils den sports grill
+tempe,az the sets
+tempe,az studio vino
+tempe,az stadium sports grill
+tempe,az nate place pub
+tempe,az horse hound sports grill
+tempe,az graham central station
+tempe,az postino annex
+tempe,az freezer ice house
+tempe,az az funnies showroom
+tempe,az firehouse tempe
+tempe,az almaza hookah lounge
+tempe,az club red swing
+tempe,az lucky break bar
+tempe,az vintage lounge grill
+tempe,az native grill wings
+tempe,az low key piano bar
+tempe,az cherry lounge and pit
+tempe,az baer den
+tempe,az yz hot pot bbq
+tempe,az el hefe
+tempe,az prankster gar and brill
+tempe,az the watershed
+tempe,az the mission at minder binder
+tempe,az olive garden italian restaurant
+tempe,az venue 104 performance cafe
+tempe,az steve espresso
+tempe,az jimmy hula
+tempe,az the door
+tempe,az diverti bar and grill
+tempe,az ramen dozo
+tempe,az maloney on campus
+tempe,az arcy mcgee
+tempe,az whip lounge
+tempe,az zuma grill
+tempe,az bacus bros hotdogs and beer
+tempe,az the coconut club
+tempe,az library bar grill
+tempe,az tempe front porch
+tempe,az tempe tavern
+tempe,az big bang dueling piano bar
+tempe,az mas peruvian restaurant bar
+tempe,az garlic shots
+tempe,az zipps sports grill
+tempe,az red sea hookah lounge
+tempe,az blasted barley beer company
+tempe,az the woodshed
+tempe,az star liquor convenience
+tempe,az blunt club
+tempe,az spokes on southern
+tempe,az vincitorio
+tempe,az christies cabaret
+tempe,az mad grill tavern
+tempe,az 4one4 pizza
+tempe,az la bocca urban pizzeria wine bar
+tempe,az world of beer
+tempe,az wasted grain
+tempe,az loco patron
+tempe,az vintage bar
+tempe,az august karaoke box
+tempe,az buffalo wild wings
+tempe,az hoookahmania
+tempe,az kolby corner pocket billards
+tempe,az the keg steakhouse bar
+tempe,az salut kitchen bar
+tempe,az vine tavern eatery
+tempe,az dream lounge
+tempe,az club red
+tempe,az chili
+tempe,az the revival
+tempe,az tempe center for the arts
+tempe,az diamondback billiards tempe
+tempe,az vertigo hookah lounge cafe
+tempe,az pitchforks corks
+tempe,az barney boathouse
+tempe,az muggshots bar
+tempe,az the yard at farmer arts district
+tempe,az fifty one west
+tempe,az zu izakaya asian kitchen
+tempe,az philly sports grill
+tempe,az tailgate sports bar grill
+tempe,az the derby grill pub
+tempe,az sneakers sports grill
+tempe,az main event entertainment
+tempe,az memo cafe
+tempe,az moonshine whiskey bar grill
+tempe,az flanny bar grill
+tempe,az palo verde lounge
+tempe,az starters sports bar and grill
+tempe,az perfect pear bistro
+tempe,az rehab burger therapy
+tempe,az cafe istanbul market
+tempe,az nara hookah lounge bar
+tempe,az four peaks tasting room
+tempe,az revo pizzabar
+tempe,az doc eddy
+tempe,az final round sports bar grill
+tempe,az hail mary on priest
+tempe,az fat tuesday
+tempe,az crave cafe lounge
+tempe,az oasis cafe
+tempe,az cornish pasty co
+tempe,az xyz bar
+tempe,az sparky den
+tempe,az dream palace gentlemen club
+tempe,az bison witches bar deli
+tempe,az hubbly bubbly hookah bar lounge
+tempe,az canteen modern tequila bar
+tempe,az robbie fox public house
+tempe,az sahara nights
+tempe,az shady park
+tempe,az mary place
+tempe,az pier 54
+tempe,az devil apple hookah lounge
+tempe,az antar sports bistro
+tempe,az mad hatter brew pub
+tempe,az pho cao
+tempe,az the handlebar tempe
+tempe,az bar louie
+tempe,az chronic cantina
+tempe,az endgame bar
+tempe,az nighttime nosh
+tempe,az margaritas
+tempe,az sushi 101 bar and grill
+tempe,az the lodge sasquatch kitchen
+tempe,az pera club
+tempe,az applebee
+tempe,az madcap theaters
+tempe,az the beach pit
+tempe,az copper blues
+tempe,az paragon dance center
+tempe,az improv comedy club tempe
+tempe,az tilted kilt pub eatery
+tempe,az philly sports bar grill
+tempe,az pedal haus brewery
+tempe,az margarita rocks
+tempe,az rocky point cantina
+tempe,az arlies bar grill
+tempe,az dp dough
+tempe,az mamacita cantina
+tempe,az rula bula
+tempe,az dave electric brewpub
+tempe,az gringo star street bar
+tempe,az hooters
+tempe,az bogeys grill
+tempe,az red owl sports grill
+tempe,az big fish pub
+tempe,az moroccan paradise
+tempe,az zipps sports grill
+tempe,az tilt studio
+tempe,az house of tricks
+tempe,az cue billiard store
+tempe,az nacho mamas
+tempe,az king tut cafe catering
+tempe,az trailer park restaurant
+tempe,az casa sunbá
+tempe,az tapacubo
+tempe,az last exit bar grill
+tempe,az boston restaurant sports bar
+tempe,az school of rock
+tempe,az time out lounge
+tempe,az applebee
+tempe,az brew
+tempe,az devil advocate
+tempe,az thirsty lion gastropub grill
+tempe,az villa peru restaurant bar
+tempe,az the loft
+tempe,az alibaba hookah lounge
+tempe,az long wong at the firehouse
+tempe,az sail inn
+tempe,az ra sushi bar restaurant
+tempe,az harry lounge tempe mission palm hotel
+tempe,az lagattara cat cafe
+tempe,az baseline pub
+tempe,az brick barley
+tempe,az sol diablo cantina
+tempe,az cornish pasty company
+tempe,az sakebomber sushi grill
+tempe,az casey moore oyster house
+tempe,az sharky tacos tequila
+tempe,az minder binder
+tempe,az stray cat bar grill
+tempe,az eddie pizza and lounge
+tempe,az mill cue club
+tempe,az taste of tops
+tempe,az college dropouts
+tempe,az the corner office
+tempe,az dos gringos
+tempe,az al omda hookah
+tempe,az suite 301
+tempe,az elite cabaret
+tempe,az urban craft
+tempe,az public house on sixth
+tempe,az painting with twist
+tempe,az boulders on broadway
+tempe,az the clubhouse music venue
+tempe,az rooftop lounge and patio
+tempe,az mellow mushroom
+tempe,az monkey pants bar grill
+tempe,az boston bar grille
+tempe,az 910 live
+tempe,az bac lounge
+tempe,az the grill on mill
+tempe,az the funky monk
+tempe,az marquee theatre
+tempe,az blondie sports bar
+tempe,az the tavern on mill

@@ -1,0 +1,35 @@
+﻿homestead,pa burgatory
+homestead,pa red robin gourmet burgers
+homestead,pa sing sing dueling piano bar
+homestead,pa me lyng restaurant
+homestead,pa chick fil
+homestead,pa subway
+homestead,pa uno pizzeria grill
+homestead,pa tin front cafe
+homestead,pa kfc
+homestead,pa blue dust
+homestead,pa wendy
+homestead,pa rock bottom restaurant brewery
+homestead,pa old school italian sandwich shop
+homestead,pa studio am
+homestead,pa mcdonald
+homestead,pa sincerely yogurt
+homestead,pa eighth hays
+homestead,pa honest john bar restaurant
+homestead,pa duke upper deck cafe
+homestead,pa dave buster
+homestead,pa lapko bar grill
+homestead,pa the green mango thai cafe
+homestead,pa italian village pizza
+homestead,pa homestead capri pizza
+homestead,pa primanti bros
+homestead,pa bishop pizza
+homestead,pa gran agave mexican restaurant
+homestead,pa tgi fridays
+homestead,pa pittsburgh burger company
+homestead,pa fuddruckers
+homestead,pa mitchell fish market
+homestead,pa yokoso japanese steakhouse
+homestead,pa eat park
+homestead,pa dorothy blast furnace cafe
+homestead,pa home cooked by donna

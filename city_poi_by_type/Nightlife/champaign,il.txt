@@ -1,0 +1,83 @@
+﻿champaign,il clybourne
+champaign,il papa bar grill
+champaign,il white horse inn
+champaign,il the clark bar
+champaign,il quality beer
+champaign,il vapors
+champaign,il chevys fresh mex
+champaign,il scotty brewhouse
+champaign,il the himalayan chimney
+champaign,il voice ktv
+champaign,il houlihan
+champaign,il cowboy monkey
+champaign,il sun singer wine and spirits
+champaign,il fat city saloon
+champaign,il old chicago
+champaign,il hamilton walker
+champaign,il the fubar lounge
+champaign,il miga
+champaign,il daniel
+champaign,il esquire lounge
+champaign,il guido bar grill
+champaign,il the accord
+champaign,il leadbelly
+champaign,il cabo cantina and grill
+champaign,il bacaro
+champaign,il boneyard bar bbq
+champaign,il geovanti
+champaign,il hooters
+champaign,il billy barooz bar grill
+champaign,il orange brew
+champaign,il soma ultralounge
+champaign,il tumble inn tavern
+champaign,il firehaus
+champaign,il wedge tequila bar grill
+champaign,il the neighbors at the ice house
+champaign,il barfly
+champaign,il chili
+champaign,il fire station pizza and pub
+champaign,il brass rail
+champaign,il barrelhouse 34
+champaign,il the hub
+champaign,il green street cafe
+champaign,il seven saints
+champaign,il big grove tavern
+champaign,il brixx wood fired pizza
+champaign,il bentley pub
+champaign,il applebee grill bar
+champaign,il wedge tequila bar grill
+champaign,il virginia theatre
+champaign,il pia sports bar grill
+champaign,il william staerkel planetarium
+champaign,il rose bowl tavern
+champaign,il murphy pub
+champaign,il jupiter pizzeria and billiards
+champaign,il steam industries vape lounge
+champaign,il legends
+champaign,il yori korean grill bar
+champaign,il picasso
+champaign,il minneci at the crossing
+champaign,il boltini lounge
+champaign,il kam
+champaign,il mid summer lounge
+champaign,il black dog smoke ale house
+champaign,il watson shack rail
+champaign,il fat city bar and grill
+champaign,il olive garden italian restaurant
+champaign,il brothers bar grill
+champaign,il mike molly
+champaign,il emerald city lounge
+champaign,il jillian
+champaign,il farren pub eatery
+champaign,il hubers
+champaign,il derailed 57 bar
+champaign,il tgi fridays
+champaign,il buffalo wild wings
+champaign,il illini inn
+champaign,il the blind pig company
+champaign,il chester street bar
+champaign,il memphis on main
+champaign,il joe brewery
+champaign,il red lion
+champaign,il jupiter pizzeria and billards
+champaign,il alto vineyards

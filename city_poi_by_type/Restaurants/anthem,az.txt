@@ -1,0 +1,22 @@
+﻿anthem,az haggen food pharmacy
+anthem,az the tennessee grill
+anthem,az subway
+anthem,az rookies neighborhood sports grill
+anthem,az hungry howie pizza
+anthem,az del taco
+anthem,az native new yorker
+anthem,az auntie anne
+anthem,az taco bell
+anthem,az cafe afify
+anthem,az ray pizza
+anthem,az cafe provence
+anthem,az barro pizza
+anthem,az subway
+anthem,az pinata nueva
+anthem,az jack in the box
+anthem,az dara thai
+anthem,az tru burger co
+anthem,az mcdonald
+anthem,az madelyn
+anthem,az papa murphy take bake pizza
+anthem,az shanghai club

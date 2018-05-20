@@ -1,0 +1,16 @@
+﻿sun|city,az chang lee restaurant
+sun|city,az domino pizza
+sun|city,az new york west pastry bake shop
+sun|city,az fry
+sun|city,az starbucks
+sun|city,az safeway
+sun|city,az al meat market
+sun|city,az safeway food drug
+sun|city,az starbucks
+sun|city,az señor taco
+sun|city,az fresh vitamins
+sun|city,az helvig health chiropractic alan helvig
+sun|city,az coco family restaurant
+sun|city,az walgreens
+sun|city,az big burrito
+sun|city,az coco family restaurant

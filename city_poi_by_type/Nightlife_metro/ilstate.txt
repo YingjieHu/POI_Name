@@ -1,0 +1,118 @@
+﻿ilstate applebee
+ilstate clybourne
+ilstate papa bar grill
+ilstate white horse inn
+ilstate the clark bar
+ilstate quality beer
+ilstate vapors
+ilstate chevys fresh mex
+ilstate scotty brewhouse
+ilstate ravens food spirits
+ilstate the himalayan chimney
+ilstate voice ktv
+ilstate project 47
+ilstate houlihan
+ilstate daly sports bar
+ilstate cowboy monkey
+ilstate sun singer wine and spirits
+ilstate flyght bar and lounge
+ilstate fat city saloon
+ilstate old chicago
+ilstate hamilton walker
+ilstate the fubar lounge
+ilstate miga
+ilstate daniel
+ilstate esquire lounge
+ilstate guido bar grill
+ilstate the accord
+ilstate jp cool bar grill
+ilstate leadbelly
+ilstate cabo cantina and grill
+ilstate casa real
+ilstate monarch brewing
+ilstate bacaro
+ilstate boneyard bar bbq
+ilstate geovanti
+ilstate hooters
+ilstate billy barooz bar grill
+ilstate uncle martin sports bar
+ilstate orange brew
+ilstate attie bar grill
+ilstate soma ultralounge
+ilstate tumble inn tavern
+ilstate firehaus
+ilstate wedge tequila bar grill
+ilstate rantoul public house
+ilstate the neighbors at the ice house
+ilstate silver bullet bar
+ilstate monticello red wheel restaurant
+ilstate barfly
+ilstate star karaoke
+ilstate chili
+ilstate fire station pizza and pub
+ilstate brass rail
+ilstate barrelhouse 34
+ilstate the hub
+ilstate green street cafe
+ilstate seven saints
+ilstate big grove tavern
+ilstate brixx wood fired pizza
+ilstate bentley pub
+ilstate applebee grill bar
+ilstate wedge tequila bar grill
+ilstate virginia theatre
+ilstate krannert center for the performing arts
+ilstate red star liquors
+ilstate riggs beer company
+ilstate sipyard
+ilstate pia sports bar grill
+ilstate william staerkel planetarium
+ilstate champaign urbana adventures in time space
+ilstate rose bowl tavern
+ilstate the canopy club
+ilstate bar
+ilstate black rock pizza co
+ilstate murphy pub
+ilstate jupiter pizzeria and billiards
+ilstate steam industries vape lounge
+ilstate legends
+ilstate yori korean grill bar
+ilstate picasso
+ilstate iron post
+ilstate minneci at the crossing
+ilstate boltini lounge
+ilstate buffalo wild wings
+ilstate kam
+ilstate roch
+ilstate old orchard lanes links
+ilstate jt walker restaurant and brewery
+ilstate mid summer lounge
+ilstate black dog smoke ale house
+ilstate watson shack rail
+ilstate bunny tavern
+ilstate eighty eight broadway
+ilstate fat city bar and grill
+ilstate olive garden italian restaurant
+ilstate brothers bar grill
+ilstate wines at the pines
+ilstate mike molly
+ilstate crane alley
+ilstate plus vip lounge
+ilstate emerald city lounge
+ilstate jillian
+ilstate farren pub eatery
+ilstate boomerang bar grill
+ilstate hubers
+ilstate derailed 57 bar
+ilstate tgi fridays
+ilstate buffalo wild wings
+ilstate illini inn
+ilstate the blind pig company
+ilstate the main street wingery
+ilstate chester street bar
+ilstate memphis on main
+ilstate joe brewery
+ilstate red lion
+ilstate jupiter pizzeria and billards
+ilstate alto vineyards
+ilstate triptych brewing

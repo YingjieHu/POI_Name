@@ -1,0 +1,12 @@
+﻿sun|city|west,az nan jing
+sun|city|west,az dairy queen
+sun|city|west,az alta villa
+sun|city|west,az garden cafe
+sun|city|west,az anacapa restaurant
+sun|city|west,az dunkin donuts
+sun|city|west,az the crooked putter
+sun|city|west,az rosie italian cafe
+sun|city|west,az arby
+sun|city|west,az florencia pizza
+sun|city|west,az hole one
+sun|city|west,az carrie cafe

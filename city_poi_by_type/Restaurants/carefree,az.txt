@@ -1,0 +1,26 @@
+﻿carefree,az latilla
+carefree,az carefree bistro
+carefree,az black mountain coffee shop
+carefree,az corrado cucina italiana
+carefree,az the grill kitchen bar
+carefree,az saguaro grille
+carefree,az venues café
+carefree,az 34 easy st
+carefree,az giordano trattoria romana
+carefree,az az wine co
+carefree,az bad donkey sub salad pizza
+carefree,az english rose tea room
+carefree,az palo verde
+carefree,az pizzafarro
+carefree,az carefree station
+carefree,az the sundial cafe
+carefree,az sundial garden cafe
+carefree,az carefree station grill bar
+carefree,az the lariat restaurant and lounge
+carefree,az the speakeasy on easy street
+carefree,az cafe bink
+carefree,az china joy
+carefree,az my sweet blessings bakery and bistro
+carefree,az saba mediterranean cuisine
+carefree,az hibachibot korean bbq
+carefree,az bodega 13

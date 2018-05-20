@@ -1,0 +1,69 @@
+﻿sun|prairie,wi market street diner
+sun|prairie,wi pizza pit
+sun|prairie,wi chang jiang
+sun|prairie,wi anna pizzeria
+sun|prairie,wi sonic
+sun|prairie,wi salvatore tomato pies
+sun|prairie,wi la tolteca
+sun|prairie,wi big apple bagels
+sun|prairie,wi salvatore tomato pies
+sun|prairie,wi taco bell
+sun|prairie,wi plate barrel
+sun|prairie,wi mcgovern enterprises
+sun|prairie,wi monk bar grill sun prairie
+sun|prairie,wi harry supper club
+sun|prairie,wi burger king
+sun|prairie,wi milio sandwiches
+sun|prairie,wi wingz thingz
+sun|prairie,wi marco pizza
+sun|prairie,wi what brew in sun prairie
+sun|prairie,wi jimmy john
+sun|prairie,wi dairy queen
+sun|prairie,wi north bristol sportsman club
+sun|prairie,wi watertower chop house
+sun|prairie,wi willie ty eatery
+sun|prairie,wi beef brady
+sun|prairie,wi gus diner
+sun|prairie,wi guimo mexican restaurant
+sun|prairie,wi falbo bros pizzeria
+sun|prairie,wi erbert and gerbert
+sun|prairie,wi glass nickel pizza
+sun|prairie,wi mcdonald
+sun|prairie,wi macs
+sun|prairie,wi ski saloon
+sun|prairie,wi kfc
+sun|prairie,wi deli roma
+sun|prairie,wi panda garden
+sun|prairie,wi abarrotes el primo
+sun|prairie,wi buck honeys
+sun|prairie,wi mcdonald
+sun|prairie,wi chicken lips
+sun|prairie,wi sir hobo
+sun|prairie,wi george chicken and fish
+sun|prairie,wi subway
+sun|prairie,wi peking chinese restaurant
+sun|prairie,wi porktropolis
+sun|prairie,wi the cannery bar and grille
+sun|prairie,wi prairie diner
+sun|prairie,wi culver frozen custard
+sun|prairie,wi domino pizza
+sun|prairie,wi day one pizza
+sun|prairie,wi noodles company
+sun|prairie,wi jb italian grille
+sun|prairie,wi harry
+sun|prairie,wi burrachos fresh mexican grill
+sun|prairie,wi rocky rococo pan style pizza sun prairie
+sun|prairie,wi daly bar grill
+sun|prairie,wi country cafe
+sun|prairie,wi papa murphy take and bake pizza
+sun|prairie,wi la tolteca
+sun|prairie,wi pizza hut
+sun|prairie,wi little caesars pizza
+sun|prairie,wi el patron mexican grill
+sun|prairie,wi atlantis taverna
+sun|prairie,wi house of mei
+sun|prairie,wi varsity bar grill
+sun|prairie,wi mcdonald
+sun|prairie,wi nitty gritty sun prairie
+sun|prairie,wi which wich
+sun|prairie,wi pizza ranch

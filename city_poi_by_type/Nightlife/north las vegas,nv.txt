@@ -1,0 +1,42 @@
+﻿north|las|vegas,nv bourbon street sports bar
+north|las|vegas,nv buffalo wild wings
+north|las|vegas,nv camacho cantina
+north|las|vegas,nv palomino club
+north|las|vegas,nv bk vape and smoke
+north|las|vegas,nv pips cucina wine bar
+north|las|vegas,nv foothills tavern
+north|las|vegas,nv viva zapatas mexican restaurant cantina
+north|las|vegas,nv morrissey irish pub
+north|las|vegas,nv bourbon street sports bar
+north|las|vegas,nv the salted lime
+north|las|vegas,nv club lit hookah lounge
+north|las|vegas,nv tgi fridays
+north|las|vegas,nv town center lounge ii
+north|las|vegas,nv 702 helicopter
+north|las|vegas,nv millside
+north|las|vegas,nv sean patrick irish pub
+north|las|vegas,nv kavanaugh irish pub and grill
+north|las|vegas,nv sean patrick
+north|las|vegas,nv winchell pub grill
+north|las|vegas,nv broadacres marketplace
+north|las|vegas,nv surf city
+north|las|vegas,nv german american social club of nevada
+north|las|vegas,nv kaizad smoke shop hookah lounge
+north|las|vegas,nv rancher bar grill
+north|las|vegas,nv whiskey dick
+north|las|vegas,nv pasta cucina
+north|las|vegas,nv five star tavern
+north|las|vegas,nv applebee
+north|las|vegas,nv club tequila
+north|las|vegas,nv south padre nightclub
+north|las|vegas,nv winchell pub grill
+north|las|vegas,nv eta lounge
+north|las|vegas,nv mulligans bar grill
+north|las|vegas,nv chicas bonitas
+north|las|vegas,nv cabo lounge
+north|las|vegas,nv bighorn casino
+north|las|vegas,nv lucy bar grill
+north|las|vegas,nv bilbo bar grill
+north|las|vegas,nv scoundrels pub
+north|las|vegas,nv sporting chance saloon
+north|las|vegas,nv north star bar grill

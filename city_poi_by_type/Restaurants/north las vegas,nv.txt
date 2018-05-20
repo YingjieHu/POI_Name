@@ -1,0 +1,312 @@
+﻿north|las|vegas,nv alfonso mexican food
+north|las|vegas,nv raising cane
+north|las|vegas,nv carl jr
+north|las|vegas,nv kabob corner
+north|las|vegas,nv marco pizza
+north|las|vegas,nv papa john pizza
+north|las|vegas,nv denny
+north|las|vegas,nv oyster bar
+north|las|vegas,nv tiabi coffee waffle
+north|las|vegas,nv buffalo wild wings
+north|las|vegas,nv camacho cantina
+north|las|vegas,nv china sky
+north|las|vegas,nv chef ming chinese cuisine
+north|las|vegas,nv sbarro
+north|las|vegas,nv cracker barrel old country store
+north|las|vegas,nv casa cocina
+north|las|vegas,nv china go go
+north|las|vegas,nv linme gourmet soul food catering
+north|las|vegas,nv no te rajes jalisco
+north|las|vegas,nv tacos tijuana
+north|las|vegas,nv bambini pizzeria rotisserie
+north|las|vegas,nv poke express
+north|las|vegas,nv tomatoes mozzarella
+north|las|vegas,nv don tortaco
+north|las|vegas,nv mcdonald
+north|las|vegas,nv waverly steak house
+north|las|vegas,nv papa murphy
+north|las|vegas,nv delucias pizzeria
+north|las|vegas,nv taqueria el palenque
+north|las|vegas,nv the little greek
+north|las|vegas,nv sinaloa tacos
+north|las|vegas,nv domino pizza
+north|las|vegas,nv rocco ny pizzeria
+north|las|vegas,nv pizza hut
+north|las|vegas,nv roberto taco shop
+north|las|vegas,nv subway
+north|las|vegas,nv sunshine tailwinds cafe
+north|las|vegas,nv mi familia mexican restaurant
+north|las|vegas,nv pasta china
+north|las|vegas,nv pips cucina wine bar
+north|las|vegas,nv lino pizzeria italian restaurant
+north|las|vegas,nv dairy queen
+north|las|vegas,nv mcdonald
+north|las|vegas,nv pizza hut
+north|las|vegas,nv taste of paradise
+north|las|vegas,nv tropical smoothie cafe
+north|las|vegas,nv kaizen fusion roll sushi
+north|las|vegas,nv kfc
+north|las|vegas,nv silver nugget steak house
+north|las|vegas,nv mcdonald
+north|las|vegas,nv tokyo cafe
+north|las|vegas,nv viva zapatas mexican restaurant cantina
+north|las|vegas,nv subway
+north|las|vegas,nv medley buffet
+north|las|vegas,nv capriotti sandwich shop
+north|las|vegas,nv old school pizzeria
+north|las|vegas,nv papa john pizza
+north|las|vegas,nv sunflower vietnamese restaurant
+north|las|vegas,nv subway
+north|las|vegas,nv chicago style taco shop
+north|las|vegas,nv burger king
+north|las|vegas,nv aurelio pizza
+north|las|vegas,nv hogs heaven barbeque
+north|las|vegas,nv taco bell
+north|las|vegas,nv morrissey irish pub
+north|las|vegas,nv the salted lime
+north|las|vegas,nv paletas helados de michoacan
+north|las|vegas,nv pollo campero
+north|las|vegas,nv 808 hawaii mixed plate
+north|las|vegas,nv jun korean
+north|las|vegas,nv greens proteins
+north|las|vegas,nv tgi fridays
+north|las|vegas,nv mcdonald
+north|las|vegas,nv subway
+north|las|vegas,nv town center lounge ii
+north|las|vegas,nv roberto taco shop
+north|las|vegas,nv roberto taco shop
+north|las|vegas,nv millside
+north|las|vegas,nv pizza hut
+north|las|vegas,nv subway
+north|las|vegas,nv mcdonald
+north|las|vegas,nv sean patrick irish pub
+north|las|vegas,nv kfc
+north|las|vegas,nv starbucks
+north|las|vegas,nv carmine italian cafe
+north|las|vegas,nv las islas marias
+north|las|vegas,nv pizza hut
+north|las|vegas,nv carl jr restaurants
+north|las|vegas,nv kavanaugh irish pub and grill
+north|las|vegas,nv jack in the box
+north|las|vegas,nv all american food
+north|las|vegas,nv sean patrick
+north|las|vegas,nv raspados playas
+north|las|vegas,nv winchell pub grill
+north|las|vegas,nv sns diner
+north|las|vegas,nv capriotti sandwich shop
+north|las|vegas,nv que mas mexican cafe
+north|las|vegas,nv cannery row buffet
+north|las|vegas,nv vincenzo ny pizzeria
+north|las|vegas,nv panda express
+north|las|vegas,nv kfc
+north|las|vegas,nv wingstop
+north|las|vegas,nv the habit burger grill
+north|las|vegas,nv iron skillet
+north|las|vegas,nv domino pizza
+north|las|vegas,nv carl jr
+north|las|vegas,nv del taco
+north|las|vegas,nv red moon pizzeria
+north|las|vegas,nv mr willy chicken fish
+north|las|vegas,nv taco bell
+north|las|vegas,nv little divisoria
+north|las|vegas,nv the original pancake house
+north|las|vegas,nv pancit adobo
+north|las|vegas,nv bistro 57
+north|las|vegas,nv taco bell
+north|las|vegas,nv jack in the box
+north|las|vegas,nv carl jr
+north|las|vegas,nv subway
+north|las|vegas,nv port of subs
+north|las|vegas,nv pizza hut
+north|las|vegas,nv pizza hut
+north|las|vegas,nv roberto taco shop
+north|las|vegas,nv sushi wow
+north|las|vegas,nv outback steakhouse
+north|las|vegas,nv boardhouse serious sandwiches
+north|las|vegas,nv wings restaurant
+north|las|vegas,nv surf city
+north|las|vegas,nv tortas ahogadas el pariente
+north|las|vegas,nv mariscos la lomita de culiacan
+north|las|vegas,nv german american social club of nevada
+north|las|vegas,nv don tortaco mexican grill
+north|las|vegas,nv fox pizza den
+north|las|vegas,nv domino pizza
+north|las|vegas,nv denny
+north|las|vegas,nv burger king
+north|las|vegas,nv kfc
+north|las|vegas,nv mcdonalds
+north|las|vegas,nv kfc
+north|las|vegas,nv el cazador
+north|las|vegas,nv wimpy
+north|las|vegas,nv uncle angelo pizza joint
+north|las|vegas,nv jack in the box
+north|las|vegas,nv la mojarra loca
+north|las|vegas,nv feast buffet
+north|las|vegas,nv del taco
+north|las|vegas,nv amazing thai restaurant
+north|las|vegas,nv westside bistro
+north|las|vegas,nv panda express
+north|las|vegas,nv imperial asian buffet
+north|las|vegas,nv nathan famous
+north|las|vegas,nv victory bar grill
+north|las|vegas,nv mb china
+north|las|vegas,nv carl jr
+north|las|vegas,nv sophia pizza subs
+north|las|vegas,nv kfc
+north|las|vegas,nv delights cafe and bakery
+north|las|vegas,nv hawaiian barbecue
+north|las|vegas,nv jack in the box
+north|las|vegas,nv tachos michoacan
+north|las|vegas,nv mrkt
+north|las|vegas,nv chipotle mexican grill
+north|las|vegas,nv taco bell
+north|las|vegas,nv pasta cucina
+north|las|vegas,nv popeyes louisiana kitchen
+north|las|vegas,nv super no1 chinese restaurant
+north|las|vegas,nv subway
+north|las|vegas,nv red tortilla mexican grill
+north|las|vegas,nv golden phoenix chinese cuisine
+north|las|vegas,nv capriotti sandwich shop
+north|las|vegas,nv sushi zen
+north|las|vegas,nv domino pizza
+north|las|vegas,nv el menudazo
+north|las|vegas,nv in out burger
+north|las|vegas,nv vegas sliders
+north|las|vegas,nv rancher bar grill
+north|las|vegas,nv shane rib shack
+north|las|vegas,nv the pizza kings
+north|las|vegas,nv dairy queen
+north|las|vegas,nv checkers
+north|las|vegas,nv vino pizzeria
+north|las|vegas,nv lefty pizza
+north|las|vegas,nv arby
+north|las|vegas,nv new china cuisine
+north|las|vegas,nv mega tom burgers
+north|las|vegas,nv pasta cucina
+north|las|vegas,nv feast buffet
+north|las|vegas,nv jake filling station
+north|las|vegas,nv chamango
+north|las|vegas,nv taco bell
+north|las|vegas,nv five star tavern
+north|las|vegas,nv applebee
+north|las|vegas,nv tacos el gordo
+north|las|vegas,nv in out burger
+north|las|vegas,nv lumberjacks
+north|las|vegas,nv grand china
+north|las|vegas,nv hamburger hut market
+north|las|vegas,nv cicis
+north|las|vegas,nv geisha house steak sushi
+north|las|vegas,nv china wok
+north|las|vegas,nv wingstop
+north|las|vegas,nv rosati pizza
+north|las|vegas,nv farm
+north|las|vegas,nv roberto taco shop
+north|las|vegas,nv coco bakery restaurant
+north|las|vegas,nv sonic
+north|las|vegas,nv el chino tacos
+north|las|vegas,nv wendy
+north|las|vegas,nv five guys
+north|las|vegas,nv jack in the box
+north|las|vegas,nv arby
+north|las|vegas,nv teriyaki stop
+north|las|vegas,nv winchell pub grill
+north|las|vegas,nv lotus thai kitchen
+north|las|vegas,nv los portales bakery
+north|las|vegas,nv rubio
+north|las|vegas,nv mulligans bar grill
+north|las|vegas,nv happy pizza
+north|las|vegas,nv los burritos
+north|las|vegas,nv chai tip thai and chinese
+north|las|vegas,nv el nopal
+north|las|vegas,nv panda express
+north|las|vegas,nv tacos el tapatio
+north|las|vegas,nv el charro taco shop
+north|las|vegas,nv ihop
+north|las|vegas,nv pdq
+north|las|vegas,nv grand café
+north|las|vegas,nv sundance kid cafe
+north|las|vegas,nv jersey mike subs
+north|las|vegas,nv china star
+north|las|vegas,nv subway
+north|las|vegas,nv roberto taco shop
+north|las|vegas,nv house of manchester caribbean grill organic jamaican fusion
+north|las|vegas,nv arby roast beef sandwich restaurants
+north|las|vegas,nv rigos taco
+north|las|vegas,nv rivas mexican grill
+north|las|vegas,nv ellaem soul food
+north|las|vegas,nv china go go
+north|las|vegas,nv capriotti sandwich shop
+north|las|vegas,nv sakura japanese restaurant
+north|las|vegas,nv hawaiian barbeque
+north|las|vegas,nv spaghetti company
+north|las|vegas,nv johnny rockets
+north|las|vegas,nv mcdonald
+north|las|vegas,nv subway
+north|las|vegas,nv sunrise pizza restaurant
+north|las|vegas,nv papa murphy
+north|las|vegas,nv starbucks
+north|las|vegas,nv monte pizza restaurant
+north|las|vegas,nv panda express
+north|las|vegas,nv wing time
+north|las|vegas,nv las islitas mariscos
+north|las|vegas,nv mcdonald
+north|las|vegas,nv carl jr
+north|las|vegas,nv pizza republic
+north|las|vegas,nv antojitos mas
+north|las|vegas,nv lucy bar grill
+north|las|vegas,nv subway
+north|las|vegas,nv vino ristorante deli
+north|las|vegas,nv subway
+north|las|vegas,nv lina mexican restaurant
+north|las|vegas,nv mcdonald
+north|las|vegas,nv little dumpling asian buffet
+north|las|vegas,nv jerry famous coffee shop
+north|las|vegas,nv pieology pizzeria
+north|las|vegas,nv david montes ny pizzeria
+north|las|vegas,nv baskin robbins
+north|las|vegas,nv mariana supermarkets
+north|las|vegas,nv tropical smoothie cafe
+north|las|vegas,nv tasty china
+north|las|vegas,nv china go go
+north|las|vegas,nv juke joint bar grill
+north|las|vegas,nv cg pizza
+north|las|vegas,nv little caesars
+north|las|vegas,nv las pupusas
+north|las|vegas,nv thai basil
+north|las|vegas,nv pollos culiacan
+north|las|vegas,nv maddy paddy cafe
+north|las|vegas,nv crunch donut factory
+north|las|vegas,nv texas station gambling hall hotel
+north|las|vegas,nv straight from philly stakeout
+north|las|vegas,nv mariscos aguachiles culichi
+north|las|vegas,nv port of subs
+north|las|vegas,nv carl jr restaurants
+north|las|vegas,nv cilantros taco grill
+north|las|vegas,nv martinez taco bar
+north|las|vegas,nv jasmine express
+north|las|vegas,nv waffles cafe
+north|las|vegas,nv salted malted bakery creamery
+north|las|vegas,nv baja fresh
+north|las|vegas,nv kusina ni lorraine
+north|las|vegas,nv tony mexican food
+north|las|vegas,nv kfc
+north|las|vegas,nv church chicken
+north|las|vegas,nv subway
+north|las|vegas,nv bilbo bar grill
+north|las|vegas,nv slices pizzeria
+north|las|vegas,nv la familia authentic mexican food
+north|las|vegas,nv sofia pizza
+north|las|vegas,nv atandy pizza
+north|las|vegas,nv machetes mexican food
+north|las|vegas,nv opera house saloon casino
+north|las|vegas,nv burger king
+north|las|vegas,nv cabo mexican restaurant
+north|las|vegas,nv señor pollo restaurant
+north|las|vegas,nv teriyaki madness
+north|las|vegas,nv sushi tachi
+north|las|vegas,nv tortas el rey
+north|las|vegas,nv austins steakhouse
+north|las|vegas,nv tokyo sushi house ii
+north|las|vegas,nv denny
+north|las|vegas,nv north star bar grill
+north|las|vegas,nv the chuck wagon catering truck

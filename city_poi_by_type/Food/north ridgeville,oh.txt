@@ -1,0 +1,11 @@
+﻿north|ridgeville,oh giant eagle
+north|ridgeville,oh sheetz
+north|ridgeville,oh becker donuts
+north|ridgeville,oh dairy grove
+north|ridgeville,oh convenient food mart
+north|ridgeville,oh aldi
+north|ridgeville,oh arabica coffee house
+north|ridgeville,oh panera bread
+north|ridgeville,oh china king
+north|ridgeville,oh teresa pizza
+north|ridgeville,oh poppee popcorn

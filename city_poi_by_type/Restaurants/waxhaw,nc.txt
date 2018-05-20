@@ -1,0 +1,40 @@
+﻿waxhaw,nc pizza hut
+waxhaw,nc maxwell tavern
+waxhaw,nc the rail tavern
+waxhaw,nc southsider
+waxhaw,nc taco bell
+waxhaw,nc burger king
+waxhaw,nc mingfu sushi chinese
+waxhaw,nc nicks steak and taphouse
+waxhaw,nc china ii buffet
+waxhaw,nc provisions waxhaw
+waxhaw,nc bojangles famous chicken biscuits
+waxhaw,nc mcdonald
+waxhaw,nc leo kitchen
+waxhaw,nc rippington
+waxhaw,nc jb frozen gold
+waxhaw,nc bistro antonio
+waxhaw,nc trattoria antica
+waxhaw,nc grits home cookin
+waxhaw,nc mama lena
+waxhaw,nc fox pizza den
+waxhaw,nc wysacky
+waxhaw,nc jb lazy pig bbq
+waxhaw,nc café bliss
+waxhaw,nc black chicken fine wine and craft beer
+waxhaw,nc luigi sons
+waxhaw,nc main street grill
+waxhaw,nc elvallarta mexexpress
+waxhaw,nc don julio
+waxhaw,nc rock store bbq
+waxhaw,nc heritage food and drink
+waxhaw,nc asian grill
+waxhaw,nc domino pizza
+waxhaw,nc papa john pizza
+waxhaw,nc jojo bbq
+waxhaw,nc city tavern waxhaw
+waxhaw,nc ice cream pizza works
+waxhaw,nc the stuffed olive bar and grille
+waxhaw,nc rendini pizza pasta
+waxhaw,nc moe southwest grill
+waxhaw,nc stack kitchen

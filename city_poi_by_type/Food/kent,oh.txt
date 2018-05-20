@@ -1,0 +1,47 @@
+﻿kent,oh brimfield bread oven
+kent,oh ha tea bubble tea house
+kent,oh ming bubble tea
+kent,oh robin nest
+kent,oh bt bakery
+kent,oh tree city coffee pastry
+kent,oh haymaker farmers market
+kent,oh sheetz
+kent,oh insomnia cookies
+kent,oh eurogyro
+kent,oh bent tree coffee roasters
+kent,oh peace love little donuts of kent
+kent,oh walmart supercenter
+kent,oh pulp juice smoothie bar
+kent,oh label peelers
+kent,oh popped
+kent,oh starbucks
+kent,oh fresco mexican grill salsa bar
+kent,oh madcap brew
+kent,oh heavenly cupcakes
+kent,oh marc
+kent,oh scribbles coffee
+kent,oh sheetz
+kent,oh acme fresh market
+kent,oh 101 bottles of beer on the wall
+kent,oh beckwith orchards cider mill gift shop
+kent,oh yogurt vi
+kent,oh baked in the village cafe
+kent,oh katie korner ice cream
+kent,oh the arctic squirrel
+kent,oh rise shine cafe
+kent,oh franks drive in
+kent,oh twisted meltz
+kent,oh kent natural foods cooperative
+kent,oh the baeckerei
+kent,oh speedway
+kent,oh viking vineyards and winery
+kent,oh wild goats cafe
+kent,oh cupsie daisy
+kent,oh zz yum fun
+kent,oh panini bar grill
+kent,oh stahl bakery
+kent,oh riverside wine
+kent,oh walgreens
+kent,oh stoddard frozen custard
+kent,oh discount drug mart
+kent,oh little city grill

@@ -1,0 +1,22 @@
+﻿goodyear,az buffalo wild wings
+goodyear,az nakama sushi restaurant lounge
+goodyear,az arriba mexican grill
+goodyear,az caballero grill
+goodyear,az applebee bar grill
+goodyear,az clubhouse grill
+goodyear,az saddle mountain brewing company
+goodyear,az roman oasis
+goodyear,az the haymaker goodyear
+goodyear,az clubhouse grill
+goodyear,az black angus steakhouse
+goodyear,az native grill wings
+goodyear,az crossroads sports lounge
+goodyear,az premier piano shows
+goodyear,az gus new york pizza bar
+goodyear,az manny mexican grill
+goodyear,az augie sports grill
+goodyear,az austin restaurant bar
+goodyear,az chili
+goodyear,az majerle
+goodyear,az olive garden italian restaurant
+goodyear,az gigino

@@ -1,0 +1,37 @@
+﻿west|mifflin,pa asian rice bowl
+west|mifflin,pa pittza rella
+west|mifflin,pa black cold creamery
+west|mifflin,pa ham eggers diner
+west|mifflin,pa jim famous sauce
+west|mifflin,pa hot metal diner
+west|mifflin,pa westwood bar grill
+west|mifflin,pa fox pizza den
+west|mifflin,pa old mexico
+west|mifflin,pa lone star steakhouse
+west|mifflin,pa mcdonald
+west|mifflin,pa chick fil
+west|mifflin,pa secrets bar grill
+west|mifflin,pa la hacienda
+west|mifflin,pa skyvue
+west|mifflin,pa latina pizza
+west|mifflin,pa harvey
+west|mifflin,pa asian house
+west|mifflin,pa bob evans
+west|mifflin,pa china buffet
+west|mifflin,pa denny
+west|mifflin,pa panda express
+west|mifflin,pa homeville trolley stop
+west|mifflin,pa the pizza company
+west|mifflin,pa applebee
+west|mifflin,pa mulligan sports bar and grill
+west|mifflin,pa wendy
+west|mifflin,pa long john silver
+west|mifflin,pa shop go deli
+west|mifflin,pa chili
+west|mifflin,pa boonda
+west|mifflin,pa hunan wok chinese restaurant
+west|mifflin,pa buffalo wild wings
+west|mifflin,pa taco bell
+west|mifflin,pa bellisario pizza shop
+west|mifflin,pa johnny rockets
+west|mifflin,pa the potato patch

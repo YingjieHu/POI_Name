@@ -1,0 +1,116 @@
+﻿urbana,il steak shake
+urbana,il blues
+urbana,il siam terrace
+urbana,il mcdonald
+urbana,il burger king
+urbana,il niro gyros
+urbana,il qdoba mexican eats
+urbana,il bevier cafe
+urbana,il strawberry fields
+urbana,il flyght bar and lounge
+urbana,il papa john pizza
+urbana,il the red herring vegetarian restaurant
+urbana,il subway
+urbana,il crepe de licious
+urbana,il merry ann diner
+urbana,il the great impasta
+urbana,il lacy
+urbana,il dos reales
+urbana,il courier cafe
+urbana,il the empanadas house
+urbana,il einstein bros bagels
+urbana,il louie dixie kitchen
+urbana,il tang dynasty
+urbana,il tang dynasty
+urbana,il casey general store
+urbana,il papa murphy
+urbana,il panchero mexican grill
+urbana,il skully chicken and fish
+urbana,il uncle martin sports bar
+urbana,il china garden
+urbana,il perkins restaurant bakery
+urbana,il masijta grill
+urbana,il attie bar grill
+urbana,il montana mike
+urbana,il prairie tap
+urbana,il derald
+urbana,il bab plus korean restaurant
+urbana,il the dancing dog eatery juicery
+urbana,il taco bell
+urbana,il black dog smoke ale house
+urbana,il el oasis
+urbana,il xinh xinh cafe
+urbana,il kennedy at stone creek
+urbana,il silvercreek
+urbana,il starbucks
+urbana,il pizza
+urbana,il wendy
+urbana,il milo restaurant
+urbana,il caffebene
+urbana,il krannert center for the performing arts
+urbana,il domino pizza
+urbana,il la fiesta mexican restaurant
+urbana,il cracker barrel old country store
+urbana,il first wok
+urbana,il urbana garden family restaurant
+urbana,il bangkok thai pho 911
+urbana,il das cafe
+urbana,il illini union ballroom dining
+urbana,il hot wok express
+urbana,il bar
+urbana,il mas amigos
+urbana,il office the
+urbana,il black rock pizza co
+urbana,il intermezzo café
+urbana,il rainbow garden
+urbana,il burrito king
+urbana,il manolo pizza empanadas
+urbana,il miko
+urbana,il basil thai urbana
+urbana,il amano pizza
+urbana,il hickory river smokehouse
+urbana,il kofusion
+urbana,il picasso
+urbana,il sitara
+urbana,il sunny china buffet
+urbana,il village inn pizza
+urbana,il lil porgy bar que
+urbana,il black rock pizza
+urbana,il shanghai 1938
+urbana,il black rock pizza
+urbana,il marco pizza
+urbana,il bunny tavern
+urbana,il timpone
+urbana,il taco motorizado
+urbana,il little caesars pizza
+urbana,il crane alley
+urbana,il el toro
+urbana,il po boys restaurant
+urbana,il windy city express
+urbana,il plus vip lounge
+urbana,il holiday inn hotel champaign urbana
+urbana,il monical pizza
+urbana,il the apple dumplin
+urbana,il garcia pizza in pan
+urbana,il kfc
+urbana,il beckman cafe
+urbana,il don juan cocina mexicana cantina
+urbana,il boomerang bar grill
+urbana,il bbq premium chicken
+urbana,il rosati pizza
+urbana,il dairy queen
+urbana,il toro loco
+urbana,il mcdonald
+urbana,il casey carry out pizza
+urbana,il arby
+urbana,il sushi san
+urbana,il cocina real mexican restaurant
+urbana,il jimmy john
+urbana,il the bread company
+urbana,il wingstop
+urbana,il jimmy john
+urbana,il huaraches moroleon
+urbana,il caffe paradiso
+urbana,il gumbo
+urbana,il sandella flatbread cafe
+urbana,il wendy

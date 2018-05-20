@@ -1,13 +1,14 @@
 
 import codecs
-
 from geopy.geocoders import GeoNames
 
-
+# This function geocodes the city names using the GeoNames API
 def geocoding_cities():
-    geolocator = GeoNames(username='yingjiehu')
-    fw = codecs.open('../final_city_name_coords.csv','w','utf-8')
-    with codecs.open('../final_city_name.csv','r','utf-8') as fr:
+    geolocator = GeoNames(username='demo')
+    # output file
+    fw = codecs.open('../city_coords_AllCategories.csv','w','utf-8')
+    #read from the city list
+    with codecs.open('../city_poi_by_type/AllCategory/city_list.csv','r','utf-8') as fr:
         for line in fr:
             this_city_name = line.strip()
             splitted = this_city_name.split(",")
