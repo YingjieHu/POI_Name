@@ -15,7 +15,9 @@ You can refer to this original paper for more details, and please feel free to r
 
 ### Dataset
 The POI dataset used for this study is from Yelp, and can be downloaded here:  https://www.yelp.com/dataset . This study focuses on the seven metropolitan areas in the United States. The figure below provides a geographic visualization of the used POIs:
-![The seven US metropolitan areas and their POIs](http://www.geog.ucsb.edu/~hu/clustering.png)
+<p align="center">
+<img align="center" src="https://github.com/YingjieHu/POI_Name/blob/master/fig/Figure2.png" width="600" />
+</p>
 
 
 ### Repository organization
@@ -43,6 +45,9 @@ This section provides descriptions for the source Python files. If you have ques
 
 "geocoder.py": This file geo-locates the cities in the seven metropolitan areas in this POI dataset based on their names using the GeoNames API. The code opens a complete city list under the folder of "city_poi_by_type/AllCategory", and then geocodes each city in that file. Note: you will need to change the username from "demo" to your own GeoName API username.
 
-"similarity_matrix.py": Code in this file generates the similarity matrices based on the geographic distances of the seven metropolitan areas and their POI name similarities based on word2vec. These generated figures are used in Figure 7 (a) and (c) in the published paper.
+"similarity_matrix.py": Code in this file generates the similarity matrices based on the geographic distances of the seven metropolitan areas and their POI name similarities based on word2vec. These generated figures are used in Figure 7 (a) and (c) in the published paper. These similarity matrices are also shown as below:
+<p align="center">
+<img align="center" src="https://github.com/YingjieHu/POI_Name/blob/master/fig/Similarity_metro.png" width="600" />
+</p>
 
  
