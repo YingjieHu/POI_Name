@@ -19,8 +19,8 @@ sys.setdefaultencoding('utf8')
 # This is the core function for plotting out similarity matrix
 def plot_similarity_matrix(matrix_data, labels, plot_title):
     fig, ax = plt.subplots(figsize=(20,20))
-    cmap = cm.get_cmap('RdYlGn')
-    cax = ax.matshow(matrix_data, interpolation='nearest',cmap=cmap)
+    cmap = cm.get_cmap('RdYlGn')   #'RdYlGn_r'
+    cax = ax.matshow(matrix_data, interpolation='nearest',cmap=cmap)  #, vmin=0.65, vmax=1.0)
     #ax.grid(True)
     plt.title(plot_title)
     plt.xticks(range(7), labels, rotation=90);
@@ -28,7 +28,7 @@ def plot_similarity_matrix(matrix_data, labels, plot_title):
     fig.colorbar(cax, ticks=[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, .75,.8,.85,.90,.95,1])
     plt.show()
     
-    #fig.savefig('embeddingSimilarity.png',dpi=300)
+    #fig.savefig('vectorCount_matrix.png',dpi=300)
     
     
 
@@ -137,6 +137,6 @@ def geo_distance_similarity_metro():
 
 #main function starts
 if __name__ == "__main__":
-    geo_distance_similarity_metro()
-    #word2vec_similarity_metro()
+    #geo_distance_similarity_metro()
+    word2vec_similarity_metro()
     
