@@ -8,7 +8,7 @@
 ### Overall description 
 This project provides the code for studying the names of Points of Interest (POI) and their changes with geographic distances. This GitHub repository is in companion with the published paper:
 
-Hu, Y. & Janowicz, K. (2018): An empirical study on the names of points of interest and their changes with geographic distance, In: Proceedings of the 10th International Conference on Geographic Information Science (GIScience 2018), Aug. 29-31, Melbourne, Australia.
+Hu, Y. & Janowicz, K. (2018): An empirical study on the names of points of interest and their changes with geographic distance, In: Proceedings of the 10th International Conference on Geographic Information Science (GIScience 2018), Aug. 29-31, Melbourne, Australia. https://arxiv.org/pdf/1806.08040.pdf
 
 You can refer to this original paper for more details, and please feel free to re-use the code shared here for your own research projects. If you use the code, we would appreciate if you could cite our paper. Thank you!
 
